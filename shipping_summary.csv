@@ -1,0 +1,1466 @@
+summary_id,shipping_date,seller_name,buyer_name,buyer_address,buyer_city,zipcode,kode_resi
+1,2022-12-02,ZenLiving,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,087762022112920221202107044
+2,2022-12-02,Apotek Jihan Farma,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,087952022113020221202054273
+3,2022-12-03,Sora Knit,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,088022022113020221203004203
+4,2022-12-01,beau pamore,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,088082022112820221201105235
+5,2022-12-01,Apotek Century Permata,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,088262022113020221201054302
+6,2022-12-02,Focallure Official Store,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,088572022112920221202031228
+7,2022-12-01,Sanhatcollection,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,088712022112920221201063151
+8,2022-12-01,Dolphin Tamiya Hobby,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,089092022113020221201015207
+9,2022-12-02,Make Over Official Shop,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,089192022112920221202114224
+10,2022-12-03,msmo,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,089482022113020221203119129
+11,2022-12-02,Pixy Official Store,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,089762022112920221202079229
+12,2022-12-01,luxcrime,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,090012022112920221201014227
+13,2022-12-02,ipstore_id,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,090232022113020221202125204
+14,2022-12-01,K2 Official Store,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,090292022113020221201072042
+15,2022-12-01,KoboiTech,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,090462022112920221201095074
+16,2022-12-01,lapak atk,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,090472022112920221201022092
+17,2022-12-01,STUDIO TROPIK,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,090512022112920221201034226
+18,2022-12-03,Rahsa Nusantara Official,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,090572022113020221203079316
+19,2022-12-02,Electron,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,090772022113020221202038073
+20,2022-12-01,X-Urband Official,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,090942022112920221201033124
+21,2022-12-02,K2 Official Store,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,090992022113020221202114042
+22,2022-12-01,Kastil Drakula,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,091022022112920221201011084
+23,2022-12-01,Guele Id,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,091052022113020221201068255
+24,2022-12-01,Apotek Rejeki Tomang Grogol Petamburan,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,091292022112920221201108279
+25,2022-12-03,Setia Mandiri Elektronik,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,091322022113020221203073041
+26,2022-12-01,OTWOO Indonesia,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,091642022112920221201075246
+27,2022-12-02,GrosirPakaianRajut,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,091872022112920221202018186
+28,2022-12-01,Multi jaya 31,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,092002022112820221201008030
+29,2022-12-01,VQ TECHNOLOGY,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,092302022112820221201014061
+30,2022-12-01,Agenjaketbandung,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,092702022113020221201103125
+31,2022-12-03,Rumahku Official,Hiramsyah Sambudhy Thaib,Jl Tmn Apsari 9 C,Kota Pasuruan,15419,092992022113020221203111023
+32,2022-12-03,AlteaCare Official Store,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,093002022113020221203003310
+33,2022-12-02,AlteaCare Official Store,Bernie Prajoga,Jl Casa 2,Kota Bandung,16858,093282022112920221202044310
+34,2022-12-01,Aksesmandiri.ID,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,093352022113020221201052077
+35,2022-12-02,Toko NadyaNaira,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,093512022113020221202060180
+36,2022-12-01,Apotek Mario Cengkareng,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,093532022112920221201087305
+37,2022-12-02,Beli -Beli shop,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,093782022112920221202126286
+38,2022-12-01,look180,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,093892022113020221201109172
+39,2022-12-01,erjucom,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,094012022112820221201089014
+40,2022-12-02,majafashionhouse,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,094132022113020221202115187
+41,2022-12-01,TheStore Collection,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,094342022112820221201108141
+42,2022-12-01,Prepp Studio Official Store,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,094472022112820221201064134
+43,2022-12-03,Deli office automative,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,095152022113020221203065064
+44,2022-12-01,Putra Jaya 88,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,095322022112820221201075013
+45,2022-12-01,Setia Mandiri Elektronik,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,095392022112820221201099041
+46,2022-12-01,COTTON GOODS STORE,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,095432022112820221201092157
+47,2022-12-01,STUDIO TROPIK,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,095592022113020221201113226
+48,2022-12-02,Livehaf Official,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,095902022113020221202073123
+49,2022-12-01,inayafashion,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,095992022112820221201107178
+50,2022-12-02,Indah Jaya Tools,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,096072022112920221202073020
+51,2022-12-02,Livehaf Official,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,096092022113020221202034123
+52,2022-12-03,Deli Stationery,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,096182022113020221203109056
+53,2022-12-01,Sangkilco,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,096222022113020221201014117
+54,2022-12-20,play with kiddos,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,096542022121720221220029113
+55,2022-12-14,House of Smith Official,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,096552022121320221214092118
+56,2022-12-08,PINZY Official Store,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,096562022120720221208122011
+57,2022-12-08,luxcrime,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,096572022120720221208082227
+58,2022-12-16,Berkah Natural Bersama,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,096582022121520221216116266
+59,2022-12-27,mandjur,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,096592022122420221227074285
+60,2022-12-02,Agenjaketbandung,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,096602022120120221202010125
+61,2022-12-21,To Sehat Jakarta,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,096612022121920221221032247
+62,2022-12-29,Dear Meee,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,096622022122720221229117052
+63,2022-12-30,lapak atk,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,096632022122820221230038092
+64,2022-12-10,DELTONS Official Store,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,096652022120720221210041094
+65,2022-12-31,Alora Essential,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,096662022122820221231118271
+66,2022-12-31,Razient,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,096672022123020221231015112
+67,2022-12-25,look180,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,096682022122320221225086172
+68,2022-12-09,Apotek Sami Sehat Delanggu,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,096702022120720221209122306
+69,2022-12-30,Rollover Reaction,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,096712022122720221230103231
+70,2022-12-18,Ojol Station,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,096722022121620221218059139
+71,2022-12-20,BEAUTYHAULINDO,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,096732022121920221220046243
+72,2022-12-30,PINZY Official Store,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,096742022122820221230094011
+73,2022-12-25,Make Over Official Shop,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,096752022122420221225042224
+74,2022-12-20,Troveast Official Store,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,096762022121720221220040150
+75,2022-12-12,StreetWearSupply,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,096772022120920221212074138
+76,2022-12-30,Deli Stationery,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,096782022122920221230077056
+77,2022-12-10,Oxihom,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,096792022120720221210043015
+78,2022-12-05,House of Smith Official,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,096802022120220221205040118
+79,2022-12-26,Raja Stationery,Evert Jimmy Lengkong,Jl Jend Urip Sumohardjo 31 E,Jakarta Pusat,17061,096812022122420221226101067
+80,2022-12-11,Sido Muncul Store,Dany Subrata,Jl Metro Permata Bl A-2/33,Jakarta Pusat,15640,096822022120920221211066276
+81,2022-12-26,MR12 Office,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,096832022122520221226049103
+82,2022-12-18,Eroc Official Store,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,096842022121620221218060059
+83,2022-12-18,TJJ shop,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,096852022121620221218120002
+84,2022-12-27,Apotek Mario Cengkareng,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,096862022122620221227039305
+85,2022-12-17,anjarisshop,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,096872022121520221217009177
+86,2022-12-11,dollylab,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,096882022120820221211051292
+87,2022-12-12,PANDA RETAIL SOLUTIONS,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,096892022120920221212122060
+88,2022-12-19,Garaf Official,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,096912022121820221219042144
+89,2022-12-30,Apotek Rio Bekasi Selatan,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,096922022122820221230039284
+90,2022-12-06,X-Urband Official,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,096932022120420221206059124
+91,2022-12-25,gotasa,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,096942022122420221225035208
+92,2022-12-28,Batik MasTri Solo,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,096952022122620221228109130
+93,2022-12-10,ipstore_id,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,096962022120820221210076204
+94,2022-12-13,Tulipshop77,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,096982022121120221213007218
+95,2022-12-04,Apotek Mario Cengkareng,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,096992022120120221204068305
+96,2022-12-11,look180,Hiramsyah Sambudhy Thaib,Jl Tmn Apsari 9 C,Kota Pasuruan,15419,097002022120820221211111172
+97,2022-12-31,Moxie Inconspiracy,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,097012022122920221231107136
+98,2022-12-29,DUMA Official,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,097022022122720221229007174
+99,2022-12-26,DBR Premium,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,097032022122520221226086100
+100,2022-12-10,msmo,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,097042022120920221210034129
+101,2022-12-14,SKM Jaket,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,097052022121120221214014159
+102,2022-12-05,NOSH,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,097062022120420221205029214
+103,2022-12-15,MOJO_FASHION,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,097072022121220221215117148
+104,2022-12-24,House of Smith Official,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,097082022122220221224018118
+105,2022-12-16,Freestyle-Official,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,097092022121420221216030119
+106,2022-12-08,Y&S Collections,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,097102022120520221208013210
+107,2022-12-17,Parayu official shop,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,097112022121620221217010176
+108,2022-12-17,AMC Onlineshop,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,097122022121620221217074299
+109,2022-12-24,Multi jaya 31,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,097132022122320221224093030
+110,2022-12-26,STUDIO TROPIK,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,097152022122520221226048226
+111,2022-12-28,Madame Gie Official,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,097172022122520221228112252
+112,2022-12-20,To Sehat Jakarta,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,097182022121720221220113247
+113,2022-12-06,inayafashion,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,097192022120320221206125178
+114,2022-12-07,SORU Indonesia,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,097202022120520221207105003
+115,2022-12-26,PUTRI_GROUP,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,097212022122520221226025215
+116,2022-12-19,MR12 Office,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,097222022121720221219036103
+117,2022-12-30,luxcrime,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,097232022122920221230121227
+118,2022-12-17,play with kiddos,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,097242022121520221217065113
+119,2022-12-15,Aksesmandiri.ID,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,097252022121420221215086077
+120,2022-12-04,Make Over Official Shop,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,097262022120220221204110224
+121,2022-12-10,Beli -Beli shop,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,097272022120920221210020286
+122,2022-12-04,Putra Jaya 88,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,097292022120220221204080013
+123,2022-12-12,Belanja Elektronik,Evi Yulisma Harahap,Jl Kerinci 19,Jakarta Pusat,16526,097312022121020221212104008
+124,2022-12-05,Wardah Official,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,097322022120220221205054251
+125,2022-12-19,X-Urband Official,Edy Susanto,Jl Gaperta Ujung 58,Sumatera Utara,16887,097332022121620221219084124
+126,2022-12-18,GrosirPakaianRajut,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,097342022121720221218041186
+127,2022-12-31,Gardha Komputer,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,097352022122920221231077085
+128,2022-12-11,Pixy Official Store,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,097372022120820221211126229
+129,2022-12-15,DUMA Official,Evert Jimmy Lengkong,Jl Jend Urip Sumohardjo 31 E,Jakarta Pusat,17061,097382022121220221215101174
+130,2022-12-21,SWEPO Official Store,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,097392022122020221221057197
+131,2022-12-13,TheStore Collection,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,097402022121220221213086141
+132,2022-12-30,DUNIA COMPUTER & SERVICE,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,097412022122920221230115093
+133,2022-12-19,Menjual Serba Ada,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,097422022121820221219100162
+134,2022-12-20,PANDA RETAIL SOLUTIONS,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,097432022121820221220049060
+135,2022-12-09,perfect beauty,Aluinanto Sandjojo,Jl Inspeksi Saluran Kalimalang 9 A-B,Jakarta Pusat,16035,097442022120720221209002236
+136,2022-12-09,Energi Herbals,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,097452022120720221209114262
+137,2022-12-30,Apotek Sumber Sehat 1,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,097462022122920221230079303
+138,2022-12-17,Lsean,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,097472022121520221217126034
+139,2022-12-15,Troveast Official Store,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,097482022121420221215082150
+140,2022-12-29,Belanja Elektronik,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,097492022122820221229082008
+141,2022-12-14,YOU Beauty Official,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,097502022121220221214051225
+142,2022-12-29,Apotek Sehat Kota Batu,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,097512022122720221229033290
+143,2022-12-12,Vidi Surya Elektrik,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,097522022121120221212011047
+144,2022-12-29,Make Over Official Shop,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,097532022122620221229001224
+145,2022-12-17,SWEPO Official Store,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,097542022121520221217098197
+146,2022-12-11,PURBASARI INDONESIA,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,097552022120920221211070249
+147,2022-12-25,TOKO BESI TIMUR JAYA,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,097562022122420221225009017
+148,2022-12-08,Rose All Day Cosmetics,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,097572022120620221208063254
+149,2022-12-29,lattina_shop,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,097592022122820221229064184
+150,2022-12-29,GrosirPakaianRajut,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,097602022122620221229119186
+151,2022-12-17,Fahrich Official Shop,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,097612022121620221217100146
+152,2022-12-15,X-Urband Official,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,097622022121420221215105124
+153,2022-12-07,Wardah Official,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,097632022120420221207025251
+154,2022-12-04,To Sehat Jakarta,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,097642022120220221204027247
+155,2022-12-17,COTTON GOODS STORE,Edy Suwarno,Jl Ciputat Raya 16,Jakarta Selatan,16820,097652022121420221217085157
+156,2022-12-11,SKM Jaket,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,097662022121020221211001159
+157,2022-12-16,Water.Online.Shop,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,097672022121520221216020055
+158,2022-12-06,Miisoo Official Shop,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,097682022120520221206036005
+159,2022-12-20,T & W,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,097702022121720221220113053
+160,2022-12-11,SEDANA AMERTA,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,097712022121020221211076058
+161,2022-12-17,Aisyah Herbalindo,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,097722022121420221217110263
+162,2022-12-22,DBR Premium,Eko Budianto,Jl Raden Saleh 1 B-D,Jakarta Pusat,16110,097732022122120221222091100
+163,2022-12-21,YOU Beauty Official,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,097752022121820221221007225
+164,2022-12-23,Apotek Aulia Bekasi Utara,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,097762022122020221223029289
+165,2022-12-23,UTAMA_ELECTRONIC,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,097772022122220221223119012
+166,2022-12-26,X-Urband Official,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,097782022122520221226040124
+167,2022-12-05,artacollection13,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,097792022120320221205118211
+168,2022-12-20,STUDIO TROPIK,Aluinanto Sandjojo,Jl Inspeksi Saluran Kalimalang 9 A-B,Jakarta Pusat,16035,097802022121820221220002226
+169,2022-12-03,msmo,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,097812022120220221203115129
+170,2022-12-22,Deli Stationery,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,097822022121920221222092056
+171,2022-12-24,Ojol Station,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,097832022122120221224119139
+172,2022-12-28,GrosirPakaianRajut,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,097842022122720221228039186
+173,2022-12-03,Fahrich Official Shop,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,097852022120220221203043146
+174,2022-12-16,X-Urband Official,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,097862022121520221216031124
+175,2022-12-15,Maxim Official Store,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,097872022121420221215001033
+176,2022-12-24,Wardah Official,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,097882022122120221224088251
+177,2022-12-06,Apotek Sami Sehat Delanggu,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,097892022120320221206120306
+178,2022-12-29,Putra Jaya 88,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,097902022122820221229033013
+179,2022-12-10,Bless Cosmetics ID,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,097912022120720221210062238
+180,2022-12-16,luxcrime,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,097922022121520221216037227
+181,2022-12-06,mandjur,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,097932022120320221206036285
+182,2022-12-10,Mother of Pearl by Tasya Farasya,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,097942022120720221210012239
+183,2022-12-21,Garaf Official,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,097962022121920221221076144
+184,2022-12-05,Pixy Official Store,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,097972022120320221205079229
+185,2022-12-24,lbagstore,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,097982022122220221224092010
+186,2022-12-26,F2_Sweater,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,097992022122320221226047181
+187,2022-12-04,SUN INDONESIA,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,098002022120220221204053083
+188,2022-12-25,Frozenshop - Toko Baju Pria Formal dan Kasual,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,098012022122420221225056145
+189,2022-12-12,TheStore Collection,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,098022022121120221212052141
+190,2022-12-09,Apotek Aulia Bekasi Utara,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,098032022120620221209006289
+191,2022-12-24,lattina_shop,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,098042022122320221224051184
+192,2022-12-26,Apotek Karunia Sehat Condet Kramat Jati,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,098052022122420221226052272
+193,2022-12-30,lattina_shop,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,098062022122920221230105184
+194,2022-12-12,SOMETHINC official,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,098072022121020221212015241
+195,2022-12-12,lbagstore,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,098082022121020221212036010
+196,2022-12-17,PINKFLASH OFFICIAL STORE,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,098092022121620221217088233
+197,2022-12-05,Apotek Rio Bekasi Selatan,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,098102022120420221205057284
+198,2022-12-29,Madame Gie Official,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,098112022122620221229112252
+199,2022-12-25,anjarisshop,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,098122022122420221225087177
+200,2022-12-11,Waroeng Bako Depok,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,098132022120920221211100101
+201,2022-12-28,aldiano22 shop,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,098142022122720221228019088
+202,2022-12-13,MSOU SPORT,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,098152022121120221213077205
+203,2022-12-28,Fath Knite,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,098162022122520221228093115
+204,2022-12-05,THENBLANK,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,098172022120320221205041219
+205,2022-12-24,DELTONS Official Store,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,098182022122220221224022094
+206,2022-12-07,Derossa store,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,098192022120520221207053140
+207,2022-12-06,Livehaf Official,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,098202022120520221206072123
+208,2022-12-14,Make Over Official Shop,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,098212022121320221214026224
+209,2022-12-03,Quantum Home Appliances,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,098222022120120221203075018
+210,2022-12-30,CENTURY HEALTHCARE,Evi Yulisma Harahap,Jl Kerinci 19,Jakarta Pusat,16526,098232022122820221230104275
+211,2022-12-19,TheStore Collection,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,098242022121820221219012141
+212,2022-12-12,Sido Muncul Store,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,098252022120920221212008276
+213,2022-12-12,barenbliss Official Store,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,098262022121120221212080245
+214,2022-12-12,Toko obat palembang,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,098272022121120221212069267
+215,2022-12-13,j--fashion,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,098282022121020221213094217
+216,2022-12-24,ecinos,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,098292022122220221224022193
+217,2022-12-21,sePixel,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,098302022121820221221064109
+218,2022-12-24,msmo,Darminto,Jl Sukanagara 21,Kota Bandung,16297,098312022122220221224071129
+219,2022-12-15,OTWOO Indonesia,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,098322022121320221215057246
+220,2022-12-20,NOSH,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,098332022121920221220103214
+221,2022-12-09,Mireya Cosmetics,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,098342022120620221209008250
+222,2022-12-14,Apotek Lucky Star Tanjung Priok,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,098352022121320221214063281
+223,2022-12-28,VQ TECHNOLOGY,Eko Budianto,Jl Raden Saleh 1 B-D,Jakarta Pusat,16110,098362022122620221228091061
+224,2022-12-15,HOOLIGANS,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,098372022121320221215110156
+225,2022-12-29,Modejacloth,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,098382022122620221229117137
+226,2022-12-26,Herbalindo Citra Mandiri,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,098392022122320221226072293
+227,2022-12-06,DUMA Official,Bobby Iman Satrio,Jl Kom L Yos Sudarso 27,Jakarta Pusat,15391,098402022120320221206055174
+228,2022-12-06,Rumix,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,098412022120320221206053063
+229,2022-12-13,DUMA Official,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,098422022121120221213011174
+230,2022-12-07,Quantum Home Appliances,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,098432022120520221207069018
+231,2022-12-23,Alora Essential,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,098442022122120221223105271
+232,2022-12-29,Blueprint Indonesia,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,098452022122820221229065108
+233,2022-12-09,play with kiddos,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,098462022120720221209102113
+234,2022-12-28,Rollover Reaction,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,098472022122620221228112231
+235,2022-12-19,DENPOO OFFICIAL STORE,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,098482022121620221219110039
+236,2022-12-22,Health&Beauty Solution,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,098502022121920221222096086
+237,2022-12-20,Tunas Jaya Indotama,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,098512022121920221220103111
+238,2022-12-26,Ghani Bandung,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,098522022122520221226063158
+239,2022-12-08,play with kiddos,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,098532022120620221208009113
+240,2022-12-14,dollylab,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,098542022121320221214019292
+241,2022-12-17,SORU Indonesia,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,098552022121520221217092003
+242,2022-12-27,OPI Official,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,098562022122520221227074200
+243,2022-12-02,USFA-STORE,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,098572022120120221202020126
+244,2022-12-15,MOJO_FASHION,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,098582022121420221215025148
+245,2022-12-06,Baseus Official Store,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,098592022120520221206096065
+246,2022-12-25,VICTORY FILTER16,Bobby Iman Satrio,Jl Kom L Yos Sudarso 27,Jakarta Pusat,15391,098602022122420221225055001
+247,2022-12-07,lapak atk,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,098612022120620221207035092
+248,2022-12-23,Twelve Hours Co.,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,098622022122220221223075295
+249,2022-12-26,PINKFLASH OFFICIAL STORE,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,098632022122320221226076233
+250,2022-12-29,Everlasting Gift,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,098642022122720221229006091
+251,2022-12-24,X-Urband Official,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,098652022122120221224019124
+252,2022-12-27,MPS Bigsize,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,098662022122620221227074221
+253,2022-12-18,AppShoppe,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,098672022121520221218117090
+254,2022-12-09,lbagstore,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,098682022120720221209057010
+255,2022-12-18,Modejacloth,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,098692022121720221218041137
+256,2022-12-15,Kiswara.co.id-Surabaya,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,098702022121320221215017104
+257,2022-12-29,j--fashion,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,098712022122720221229082217
+258,2022-12-22,AUTOVENTI Official Store,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,098722022122020221222078105
+259,2022-12-06,Proffe coffee,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,098732022120520221206097043
+260,2022-12-28,Apotek Mario Cengkareng,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,098742022122520221228067305
+261,2022-12-04,L'Oreal Paris Official Store,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,098752022120220221204127242
+262,2022-12-31,AppShoppe,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,098762022122820221231017090
+263,2022-12-22,SUKAMAJU_STORE,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,098772022122020221222078201
+264,2022-12-25,X-Urband Official,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,098782022122420221225077124
+265,2022-12-12,Pixy Official Store,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,098792022120920221212077229
+266,2022-12-14,Apotek Lucky Star Tanjung Priok,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,098802022121120221214118281
+267,2022-12-25,Lalulaku,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,098812022122420221225117006
+268,2022-12-04,Zazah Queen,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,098822022120120221204088027
+269,2022-12-30,Belanja Elektronik,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,098832022122820221230023008
+270,2022-12-09,Apotek Apollo Surabaya,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,098842022120820221209061301
+271,2022-12-16,ecinos,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,098852022121520221216011193
+272,2022-12-17,Prepp Studio Official Store,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,098862022121620221217114134
+273,2022-12-15,Belanja Elektronik,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,098872022121420221215125008
+274,2022-12-29,Ghani Bandung,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,098882022122720221229004158
+275,2022-12-21,DPRINCE,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,098902022121920221221074022
+276,2022-12-27,Prepp Studio Official Store,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,098912022122420221227051134
+277,2022-12-24,Apotek Lucky Star Tanjung Priok,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,098922022122220221224078281
+278,2022-12-05,Make Over Official Shop,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,098932022120220221205022224
+279,2022-12-23,Rose All Day Cosmetics,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,098942022122220221223114254
+280,2022-12-03,KoboiTech,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,098952022120120221203041074
+281,2022-12-22,PIO Label,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,098962022121920221222096216
+282,2022-12-19,luxcrime,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,098972022121820221219015227
+283,2022-12-09,Deli Stationery,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,098982022120820221209074056
+284,2022-12-06,desiree,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,098992022120320221206009196
+285,2022-12-24,Setia Mandiri Elektronik,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,099002022122320221224121041
+286,2022-12-04,Dolphin Tamiya Hobby,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,099022022120220221204109207
+287,2022-12-07,ChinaTown,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,099032022120620221207012038
+288,2022-12-17,ChinaTown,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,099042022121620221217049038
+289,2022-12-10,Troveast Official Store,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,099052022120820221210122150
+290,2022-12-28,X-Urband Official,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,099062022122720221228123124
+291,2022-12-16,Deli Stationery,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,099082022121420221216026056
+292,2022-12-07,Apotek Aulia Bekasi Utara,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,099092022120520221207116289
+293,2022-12-08,YOU Beauty Official,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,099102022120520221208109225
+294,2022-12-12,Madame Gie Official,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,099112022121120221212106252
+295,2022-12-03,erjucom,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,099142022120220221203117014
+296,2022-12-29,VICTORY FILTER16,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,099152022122820221229063001
+297,2022-12-03,Glodok Shop Elektronik,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,099162022120220221203046071
+298,2022-12-20,X-Urband Official,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,099172022121720221220067124
+299,2022-12-24,Apotek Provita,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,099182022122320221224112304
+300,2022-12-14,Belanja Elektronik,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,099192022121320221214115008
+301,2022-12-11,BEAUTYHAULINDO,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,099202022120820221211062243
+302,2022-12-29,luxcrime,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,099212022122620221229051227
+303,2022-12-21,Apotek Aulia Bekasi Utara,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,099222022121820221221068289
+304,2022-12-11,Health&Beauty Solution,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,099232022120820221211043086
+305,2022-12-16,herbalaku,Darminto,Jl Sukanagara 21,Kota Bandung,16297,099242022121420221216071307
+306,2022-12-09,VICTORY FILTER16,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,099252022120620221209114001
+307,2022-12-17,LT Pro Official,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,099262022121420221217061257
+308,2022-12-19,inayafashion,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,099272022121620221219124178
+309,2022-12-27,erjucom,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,099292022122620221227098014
+310,2022-12-28,Raja Stationery,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,099302022122520221228057067
+311,2022-12-29,Apotek Lucky Star Jakut,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,099312022122820221229017309
+312,2022-12-25,DUMA Official,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,099322022122220221225018174
+313,2022-12-05,Apotek Sahabat Ambulu,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,099332022120420221205034283
+314,2022-12-08,gotasa,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,099342022120720221208032208
+315,2022-12-22,Inez Official Store,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,099362022121920221222110256
+316,2022-12-12,Starco Official Store,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,099372022121120221212020007
+317,2022-12-18,NOSH,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,099382022121620221218029214
+318,2022-12-08,Beauty is Here,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,099392022120720221208127232
+319,2022-12-19,Wakata Living,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,099402022121620221219106004
+1436,2022-12-13,PURBASARI INDONESIA,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,111392022121220221213004249
+320,2022-12-09,Health&Beauty Solution,Aluinanto Sandjojo,Jl Inspeksi Saluran Kalimalang 9 A-B,Jakarta Pusat,16035,099412022120720221209002086
+321,2022-12-07,MAP.Store,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,099422022120520221207105049
+322,2022-12-24,Raja Stationery,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,099432022122320221224077067
+323,2022-12-16,DUNIA COMPUTER & SERVICE,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,099442022121420221216099093
+324,2022-12-17,Deli Stationery,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,099452022121420221217047056
+325,2022-12-12,mandjur,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,099462022121020221212042285
+326,2022-12-06,Markotashop,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,099472022120520221206121189
+327,2022-12-24,STUDIO TROPIK,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,099482022122120221224007226
+328,2022-12-14,To Sehat Jakarta,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,099492022121120221214018247
+329,2022-12-23,Graha Printing,Darminto,Jl Sukanagara 21,Kota Bandung,16297,099502022122020221223071082
+330,2022-12-10,Apotek Rio Bekasi Selatan,Darminto,Jl Sukanagara 21,Kota Bandung,16297,099512022120920221210071284
+331,2022-12-30,PINZY Official Store,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,099532022122820221230054011
+332,2022-12-22,X-Urband Official,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,099542022121920221222054124
+333,2022-12-10,Proffe coffee,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,099552022120820221210058043
+334,2022-12-07,Apotek Rejeki Tomang Grogol Petamburan,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,099562022120520221207016279
+335,2022-12-28,Solusi Fingerprint,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,099572022122520221228110066
+336,2022-12-08,Apotek Kenaiban,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,099582022120620221208006312
+337,2022-12-28,Twelve Hours Co.,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,099592022122620221228027295
+338,2022-12-19,Quantum Home Appliances,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,099602022121820221219080018
+339,2022-12-05,SORU Indonesia,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,099612022120320221205024003
+340,2022-12-06,Livehaf Official,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,099622022120420221206040123
+341,2022-12-17,Lalulaku,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,099632022121520221217031006
+342,2022-12-13,X-Urband Official,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,099642022121120221213006124
+343,2022-12-25,Deli Stationery,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,099652022122420221225007056
+344,2022-12-20,Deli Stationery,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,099662022121920221220028056
+345,2022-12-06,ecinos,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,099672022120320221206063193
+346,2022-12-17,Fesyana Store,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,099692022121520221217064190
+347,2022-12-27,Inez Official Store,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,099702022122620221227115256
+348,2022-12-21,Global Bangunan sukses,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,099712022122020221221029048
+349,2022-12-24,Saku Official,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,099722022122320221224081110
+350,2022-12-30,Parayu official shop,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,099732022122920221230018176
+351,2022-12-21,Fatahillah_Mall,Darminto,Jl Sukanagara 21,Kota Bandung,16297,099742022121820221221071046
+352,2022-12-16,Apotek Rio Bekasi,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,099752022121520221216100274
+353,2022-12-26,PANDA RETAIL SOLUTIONS,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,099762022122520221226083060
+354,2022-12-05,Belanja Elektronik,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,099772022120420221205018008
+355,2022-12-16,Mesindo Jaya,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,099782022121320221216032220
+356,2022-12-22,Apotek Century Permata,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,099792022121920221222045302
+357,2022-12-27,Livehaf Official,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,099802022122520221227041123
+358,2022-12-23,SEDANA AMERTA,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,099812022122220221223045058
+359,2022-12-09,lattina_shop,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,099822022120820221209106184
+360,2022-12-20,Maxim Official Store,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,099832022121920221220037033
+361,2022-12-14,play with kiddos,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,099842022121320221214074113
+362,2022-12-22,Apotek Rio Bekasi Selatan,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,099852022121920221222127284
+363,2022-12-08,Graha Printing,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,099882022120720221208118082
+364,2022-12-17,Pigeon Teens Indonesia,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,099892022121520221217009237
+365,2022-12-10,luxcrime,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,099912022120920221210015227
+366,2022-12-21,Deli Stationery,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,099922022121820221221014056
+367,2022-12-06,A2F_STORE,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,099932022120420221206075213
+368,2022-12-16,Nazava Water Filters,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,099942022121320221216127032
+369,2022-12-13,Belanja Elektronik,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,099952022121220221213007008
+370,2022-12-21,Grosir Kitchenware,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,099962022121920221221046031
+371,2022-12-19,fuishop,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,099972022121720221219016260
+372,2022-12-03,MayKitchenware,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,099982022120220221203095194
+373,2022-12-22,PINZY Official Store,Hiramsyah Sambudhy Thaib,Jl Tmn Apsari 9 C,Kota Pasuruan,15419,099992022122120221222111011
+374,2022-12-03,Tissor Official,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,100002022120120221203072062
+375,2022-12-08,KremlinOfficial,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,100012022120520221208093122
+376,2022-12-12,ZenLiving,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,100022022120920221212016044
+377,2022-12-09,PINZY Official Store,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,100042022120820221209057011
+378,2022-12-11,Peek-A-Boo Baby Stuff,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,100052022120820221211094277
+379,2022-12-04,GrosirPakaianRajut,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,100062022120220221204095186
+380,2022-12-07,Apotek Sumber Sehat 1,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,100072022120420221207043303
+381,2022-12-12,kansi store,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,100082022121020221212092153
+382,2022-12-07,j--fashion,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,100092022120620221207097217
+383,2022-12-22,Apotek Century Sunter Tanjung Priok,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,100102022122120221222090298
+384,2022-12-05,Menjual Serba Ada,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,100122022120320221205057162
+385,2022-12-07,SANSAN_TOOLS,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,100132022120520221207030051
+386,2022-12-27,TOKO BESI TIMUR JAYA,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,100142022122620221227005017
+387,2022-12-04,Apotek Apollo Surabaya,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,100152022120320221204006301
+388,2022-12-24,Markotashop,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,100162022122120221224092189
+389,2022-12-04,PUTRI_GROUP,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,100172022120120221204127215
+390,2022-12-20,Armani_collection.,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,100182022121920221220126121
+391,2022-12-06,Modejacloth,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,100192022120320221206122137
+392,2022-12-20,Y&S Collections,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,100202022121920221220106210
+393,2022-12-16,Deli Stationery,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,100212022121520221216021056
+394,2022-12-04,Beauty is Here,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,100232022120220221204119232
+395,2022-12-08,play with kiddos,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,100242022120520221208026113
+396,2022-12-08,Monellina Fashion,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,100252022120620221208041179
+397,2022-12-06,Putra Jaya 88,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,100262022120520221206078013
+398,2022-12-23,Apotek Sehat Kota Batu,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,100272022122020221223032290
+399,2022-12-30,lattina_shop,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,100282022122820221230097184
+400,2022-12-04,Mesindo Jaya,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,100292022120320221204025220
+401,2022-12-03,GIZIDAT Official,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,100302022120220221203026317
+402,2022-12-16,PANDA RETAIL SOLUTIONS,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,100312022121320221216048060
+403,2022-12-20,Water.Online.Shop,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,100322022121820221220086055
+404,2022-12-26,Mother of Pearl by Tasya Farasya,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,100332022122420221226051239
+405,2022-12-26,Apotek Century Permata,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,100342022122420221226108302
+406,2022-12-07,Livehaf Official,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,100352022120520221207127123
+407,2022-12-23,Pigeon Teens Indonesia,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,100362022122120221223090237
+408,2022-12-14,Starco Official Store,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,100372022121320221214060007
+409,2022-12-18,lbagstore,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,100382022121520221218070010
+410,2022-12-04,ESQA Cosmetics,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,100392022120220221204038230
+411,2022-12-21,FZR3,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,100402022122020221221023116
+412,2022-12-09,officeXpres,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,100412022120720221209094096
+413,2022-12-29,Bizmarts,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,100422022122620221229088280
+414,2022-12-20,MR12 Office,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,100432022121720221220023103
+415,2022-12-28,Rollover Reaction,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,100442022122720221228097231
+416,2022-12-29,SWEPO Official Store,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,100452022122820221229117197
+417,2022-12-05,happymartonline,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,100462022120220221205124009
+418,2022-12-04,Markotashop,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,100472022120220221204027189
+419,2022-12-05,luxcrime,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,100482022120320221205026227
+420,2022-12-17,Hi-Cook Official,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,100492022121520221217049035
+421,2022-12-11,SOMETHINC official,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,100502022121020221211013241
+422,2022-12-14,Apotek Rio Bekasi Selatan,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,100512022121120221214106284
+423,2022-12-28,Apotek Madani Farma Bekasi,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,100522022122620221228094287
+424,2022-12-13,DELTONS Official Store,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,100532022121220221213109094
+425,2022-12-07,Apotek Sana Farma Majapahit,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,100542022120420221207120308
+426,2022-12-04,AnR-Shop,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,100552022120120221204124170
+427,2022-12-16,Markotashop,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,100562022121520221216049189
+428,2022-12-20,ETC.OriginalSupply,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,100572022121820221220102168
+429,2022-12-16,Pigeon Teens Indonesia,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,100582022121320221216020237
+430,2022-12-05,X-Urband Official,Darminto,Jl Sukanagara 21,Kota Bandung,16297,100592022120320221205071124
+431,2022-12-07,aldiano22 shop,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,100602022120520221207107088
+432,2022-12-15,Pixy Official Store,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,100612022121220221215015229
+433,2022-12-09,Erigo Official,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,100622022120620221209079166
+434,2022-12-17,play with kiddos,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,100632022121420221217038113
+435,2022-12-04,Suplementory Official,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,100642022120220221204064297
+436,2022-12-25,Mother of Pearl by Tasya Farasya,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,100652022122420221225103239
+437,2022-12-06,sahabatmulya74,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,100662022120420221206040107
+438,2022-12-31,Beauty is Here,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,100672022122920221231006232
+439,2022-12-24,naomystore,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,100682022122320221224127149
+440,2022-12-23,A2F_STORE,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,100692022122120221223115213
+441,2022-12-19,Bless Cosmetics ID,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,100712022121820221219056238
+442,2022-12-21,ind_jaket999,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,100722022121920221221094147
+443,2022-12-18,Inteco Official Shop,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,100732022121520221218046037
+444,2022-12-21,COTTON GOODS STORE,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,100742022121920221221049157
+445,2022-12-11,Pigeon Teens Indonesia,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,100752022120920221211001237
+446,2022-12-29,Armani_collection.,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,100762022122720221229032121
+447,2022-12-08,Livehaf Official,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,100772022120620221208056123
+448,2022-12-23,Inez Official Store,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,100782022122120221223107256
+449,2022-12-10,barenbliss Official Store,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,100792022120920221210016245
+450,2022-12-09,Deli office automative,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,100802022120720221209082064
+451,2022-12-12,Raja Stationery,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,100812022121020221212125067
+452,2022-12-08,Inez Official Store,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,100822022120620221208020256
+453,2022-12-20,msmo,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,100832022121720221220053129
+454,2022-12-07,Razient,Darminto,Jl Sukanagara 21,Kota Bandung,16297,100852022120520221207071112
+455,2022-12-30,ecinos,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,100862022122820221230031193
+456,2022-12-12,SARANG ACC shop,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,100872022121120221212067070
+457,2022-12-06,Emina Official Store,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,100882022120320221206062234
+458,2022-12-29,Troveast Official Store,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,100892022122720221229023150
+459,2022-12-05,OTWOO Indonesia,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,100902022120320221205035246
+460,2022-12-08,Sido Muncul Store,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,100912022120520221208064276
+461,2022-12-31,GrafikaKita - Tech Official Jakarta,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,100922022122920221231022087
+462,2022-12-20,Apotek Bintang 7,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,100932022121720221220014311
+463,2022-12-24,DELTONS Official Store,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,100942022122120221224125094
+464,2022-12-19,SanRes,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,100952022121820221219078142
+465,2022-12-19,Tissor Official,Evert Jimmy Lengkong,Jl Jend Urip Sumohardjo 31 E,Jakarta Pusat,17061,100962022121620221219101062
+466,2022-12-15,TOKO BESI TIMUR JAYA,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,100972022121220221215016017
+467,2022-12-23,FZR3,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,100982022122020221223118116
+468,2022-12-16,Apotek Provita,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,100992022121420221216018304
+469,2022-12-06,UTAMA_ELECTRONIC,Evert Jimmy Lengkong,Jl Jend Urip Sumohardjo 31 E,Jakarta Pusat,17061,101002022120420221206101012
+470,2022-12-19,Nazava Water Filters,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,101022022121720221219008032
+471,2022-12-19,Maybelline Official Shop,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,101032022121820221219080253
+472,2022-12-22,Deli Stationery,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,101042022122020221222058056
+473,2022-12-27,SORU Indonesia,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,101052022122520221227033003
+474,2022-12-25,Skintific Official Store,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,101062022122320221225074244
+475,2022-12-07,Deli office automative,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,101072022120420221207068064
+476,2022-12-28,lattina_shop,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,101082022122720221228035184
+477,2022-12-27,SARANG ACC shop,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,101102022122520221227106070
+478,2022-12-13,BEAUTYHAULINDO,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,101122022121120221213070243
+479,2022-12-13,Lalulaku,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,101132022121120221213017006
+480,2022-12-30,Setia Mandiri Elektronik,Edy Suwarno,Jl Ciputat Raya 16,Jakarta Selatan,16820,101142022122920221230085041
+481,2022-12-23,Make Over Official Shop,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,101152022122120221223089224
+482,2022-12-19,Waroeng Bako Depok,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,101162022121720221219011101
+483,2022-12-20,ind_jaket999,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,101172022121820221220058147
+484,2022-12-20,happymartonline,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,101182022121820221220078009
+485,2022-12-31,PINZY Official Store,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,101192022122820221231001011
+486,2022-12-18,Livehaf Official,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,101202022121520221218081123
+487,2022-12-08,lbagstore,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,101212022120720221208057010
+488,2022-12-17,Sido Muncul Store,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,101222022121520221217093276
+489,2022-12-22,msmo,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,101232022122020221222032129
+490,2022-12-24,Putra Jaya 88,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,101242022122320221224073013
+491,2022-12-22,UTAMA_ELECTRONIC,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,101252022122120221222031012
+492,2022-12-07,Guele Id,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,101262022120420221207056255
+493,2022-12-12,Dolphin Tamiya Hobby,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,101272022120920221212113207
+494,2022-12-24,Make Over Official Shop,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,101282022122120221224011224
+495,2022-12-05,Dolphin Tamiya Hobby,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,101292022120220221205094207
+496,2022-12-13,Apotek Kita Merdeka,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,101312022121220221213028291
+497,2022-12-26,lattina_shop,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,101322022122420221226105184
+498,2022-12-09,Quantum Home Appliances,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,101332022120620221209115018
+499,2022-12-29,Deli office automative,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,101342022122720221229074064
+500,2022-12-13,LUXEWARES,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,101352022121120221213109019
+501,2022-12-21,BEAUTYHAULINDO,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,101362022122020221221005243
+502,2022-12-16,GrosirPakaianRajut,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,101372022121520221216036186
+503,2022-12-11,bintang888,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,101382022120920221211059300
+504,2022-12-28,Monellina Fashion,Darminto,Jl Sukanagara 21,Kota Bandung,16297,101392022122720221228071179
+505,2022-12-29,Apotek Kita Merdeka,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,101402022122620221229070291
+506,2022-12-25,Graha Printing,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,101412022122220221225030082
+507,2022-12-12,Human Greatness Labs,Dany Subrata,Jl Metro Permata Bl A-2/33,Jakarta Pusat,15640,101422022120920221212066131
+508,2022-12-29,play with kiddos,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,101432022122720221229001113
+509,2022-12-09,Agenjaketbandung,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,101442022120720221209005125
+510,2022-12-06,Anggi Colection Shop,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,101452022120520221206031169
+511,2022-12-14,Apotek Karunia Sehat Condet Kramat Jati,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,101462022121220221214005272
+512,2022-12-16,House of Smith Official,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,101472022121320221216050118
+513,2022-12-24,Lalulaku,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,101482022122120221224090006
+514,2022-12-17,bintang888,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,101492022121520221217016300
+515,2022-12-28,Apotek Sami Sehat Delanggu,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,101502022122520221228003306
+516,2022-12-26,lapak atk,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,101512022122520221226064092
+517,2022-12-20,aldiano22 shop,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,101522022121720221220065088
+518,2022-12-14,vesper,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,101532022121120221214098021
+519,2022-12-25,Ung Sira Store,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,101542022122420221225048135
+520,2022-12-23,Herbalindo Citra Mandiri,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,101552022122120221223062293
+521,2022-12-17,Wakata Living,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,101562022121420221217105004
+522,2022-12-09,ESQA Cosmetics,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,101572022120820221209060230
+523,2022-12-14,zahabistore,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,101582022121320221214065315
+524,2022-12-17,Livehaf Official,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,101592022121520221217127123
+525,2022-12-20,Yumna-mart,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,101612022121920221220116264
+526,2022-12-07,Eternalworks,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,101622022120420221207090165
+527,2022-12-25,Deli Stationery,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,101632022122420221225042056
+528,2022-12-08,vesper,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,101642022120620221208036021
+529,2022-12-03,Tentronics,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,101652022120220221203108054
+530,2022-12-20,MAP.Store,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,101662022121920221220073049
+531,2022-12-27,G21,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,101672022122420221227025155
+532,2022-12-27,Citra Selaras Supliyer,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,101682022122620221227093097
+533,2022-12-28,TOKO BESI TIMUR JAYA,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,101692022122720221228040017
+534,2022-12-16,lbagstore,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,101702022121520221216112010
+535,2022-12-16,Central_Distro,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,101712022121520221216106128
+536,2022-12-08,YOU Beauty Official,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,101722022120620221208061225
+537,2022-12-21,X-Urband Official,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,101732022121920221221072124
+538,2022-12-09,SANSAN_TOOLS,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,101742022120620221209031051
+539,2022-12-18,UTAMA_ELECTRONIC,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,101752022121620221218003012
+540,2022-12-05,LUXEWARES,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,101762022120220221205058019
+541,2022-12-14,Maslinda Store,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,101772022121120221214012079
+542,2022-12-27,X-Urband Official,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,101782022122520221227022124
+543,2022-12-07,Deli office automative,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,101792022120620221207013064
+544,2022-12-25,JIESUN_FASHION,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,101802022122320221225076198
+545,2022-12-15,PINZY Official Store,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,101812022121220221215077011
+546,2022-12-22,fuishop,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,101822022121920221222070260
+547,2022-12-25,Madame Gie Official,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,101832022122220221225052252
+548,2022-12-02,Apotek Kita Merdeka,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,101842022120120221202096291
+549,2022-12-27,Make Over Official Shop,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,101852022122520221227109224
+550,2022-12-15,GIZIDAT Official,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,101862022121320221215023317
+551,2022-12-15,Gardha Komputer,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,101872022121420221215098085
+552,2022-12-14,K2 Official Store,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,101882022121220221214033042
+553,2022-12-20,safirablazer. id,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,101892022121920221220048222
+554,2022-12-24,F2_Sweater,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,101902022122320221224110181
+555,2022-12-23,Proffe coffee,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,101912022122120221223125043
+556,2022-12-31,YOU Beauty Official,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,101922022123020221231040225
+557,2022-12-29,Apotek Provita,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,101932022122820221229025304
+558,2022-12-13,sahabatmulya74,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,101942022121220221213026107
+559,2022-12-14,Glodok Shop Elektronik,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,101952022121320221214011071
+560,2022-12-30,Sido Muncul Store,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,101962022122920221230042276
+561,2022-12-19,msmo,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,101972022121720221219004129
+562,2022-12-16,Global Bangunan sukses,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,101982022121520221216048048
+563,2022-12-30,Livehaf Official,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,101992022122920221230108123
+564,2022-12-11,PINZY Official Store,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,102002022121020221211107011
+565,2022-12-07,play with kiddos,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,102012022120520221207077113
+566,2022-12-11,CENTURY HEALTHCARE,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,102022022120920221211109275
+567,2022-12-18,Apotek Karunia Sehat Condet Kramat Jati,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,102032022121520221218011272
+568,2022-12-12,Deli Stationery,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,102042022121120221212007056
+569,2022-12-30,HOOLIGANS,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,102052022122820221230004156
+570,2022-12-30,Nazava Water Filters,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,102062022122820221230069032
+571,2022-12-03,T & W,Evi Yulisma Harahap,Jl Kerinci 19,Jakarta Pusat,16526,102072022120220221203104053
+572,2022-12-18,j--fashion,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,102082022121720221218019217
+573,2022-12-10,Aisyah Herbalindo,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,102092022120820221210021263
+574,2022-12-14,lattina_shop,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,102102022121320221214113184
+575,2022-12-07,Livehaf Official,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,102112022120420221207059123
+576,2022-12-23,Belanja Elektronik,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,102122022122120221223078008
+577,2022-12-20,sansscollection,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,102132022121920221220081199
+578,2022-12-24,Apotek Century Permata,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,102142022122120221224095302
+579,2022-12-06,Apotek Rio Bekasi Selatan,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,102152022120420221206045284
+580,2022-12-28,Lancar Jaya Store,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,102172022122720221228097078
+581,2022-12-22,Tissor Official,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,102182022122020221222010062
+582,2022-12-16,bintang888,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,102192022121420221216034300
+583,2022-12-03,TheStore Collection,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,102202022120220221203034141
+584,2022-12-05,Apotek Provita,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,102232022120420221205014304
+585,2022-12-07,Beauty is Here,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,102242022120620221207042232
+586,2022-12-19,perfect beauty,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,102252022121620221219037236
+587,2022-12-10,Toko obat palembang,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,102262022120920221210049267
+588,2022-12-13,TOKO BESI TIMUR JAYA,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,102272022121220221213107017
+589,2022-12-05,Energi Herbals,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,102282022120420221205109262
+590,2022-12-14,play with kiddos,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,102292022121120221214014113
+591,2022-12-20,Guele Id,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,102302022121820221220067255
+592,2022-12-22,Tokosebelah2021,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,102322022121920221222087160
+593,2022-12-29,Apotek Century Sunter Tanjung Priok,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,102332022122820221229097298
+594,2022-12-26,Wakata Living,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,102342022122420221226074004
+595,2022-12-19,Autad20,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,102352022121720221219024173
+596,2022-12-06,Maybelline Official Shop,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,102362022120320221206082253
+597,2022-12-20,PINZY Official Store,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,102372022121820221220040011
+598,2022-12-03,Apotek Provita,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,102382022120220221203083304
+599,2022-12-03,YOU Beauty Official,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,102392022120220221203120225
+600,2022-12-09,Deli office automative,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,102402022120820221209074064
+601,2022-12-03,Apotek Rio Bekasi Selatan,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,102412022120120221203127284
+602,2022-12-04,Tissor Official,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,102422022120320221204007062
+603,2022-12-30,CENTURY HEALTHCARE,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,102432022122820221230062275
+604,2022-12-05,X-Urband Official,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,102442022120420221205017124
+605,2022-12-03,luxcrime,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,102452022120120221203077227
+606,2022-12-24,inimurah shop,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,102462022122220221224067076
+607,2022-12-06,Livehaf Official,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,102472022120320221206028123
+608,2022-12-08,INTI MEDIKA STORE,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,102482022120520221208058282
+609,2022-12-22,House of Smith Official,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,102492022122020221222046118
+610,2022-12-12,Solusi Fingerprint,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,102502022121020221212022066
+611,2022-12-29,Apotek Rio Bekasi Selatan,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,102512022122620221229083284
+612,2022-12-28,MPS Bigsize,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,102522022122720221228123221
+613,2022-12-29,Aisyah Herbalindo,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,102542022122620221229064263
+614,2022-12-23,agni-idstore,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,102552022122120221223078171
+615,2022-12-12,luxcrime,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,102562022121020221212064227
+616,2022-12-11,Eroc Official Store,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,102572022120820221211120059
+617,2022-12-11,Goto Living,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,102582022120920221211082036
+618,2022-12-06,Herbalindo Citra Mandiri,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,102592022120420221206123293
+619,2022-12-10,F2_Sweater,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,102602022120820221210078181
+620,2022-12-21,Moxie Inconspiracy,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,102612022121820221221036136
+621,2022-12-30,Prepp Studio Official Store,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,102622022122720221230027134
+622,2022-12-29,Hs stationary and fancy,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,102632022122820221229027080
+623,2022-12-02,Raja Stationery,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,102642022120120221202093067
+624,2022-12-11,Agenjaketbandung,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,102652022120920221211037125
+625,2022-12-26,tokojaketbadung,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,102662022122420221226032202
+626,2022-12-31,Hi-Cook Official,Darminto,Jl Sukanagara 21,Kota Bandung,16297,102672022122820221231071035
+627,2022-12-20,Markotashop,Aluinanto Sandjojo,Jl Inspeksi Saluran Kalimalang 9 A-B,Jakarta Pusat,16035,102692022121720221220002189
+628,2022-12-26,Rumix,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,102702022122420221226083063
+629,2022-12-30,sansscollection,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,102712022122920221230060199
+630,2022-12-29,Make Over Official Shop,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,102722022122720221229118224
+631,2022-12-18,Central_Distro,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,102732022121520221218021128
+632,2022-12-12,House of Smith Official,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,102742022121020221212125118
+633,2022-12-15,PT Harmoni Danatek Solusindo,Evert Jimmy Lengkong,Jl Jend Urip Sumohardjo 31 E,Jakarta Pusat,17061,102752022121420221215101057
+634,2022-12-26,Lalulaku,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,102762022122320221226016006
+635,2022-12-17,BioCloud Absensi Online,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,102772022121620221217038089
+636,2022-12-18,K2 Official Store,Evi Yulisma Harahap,Jl Kerinci 19,Jakarta Pusat,16526,102782022121520221218104042
+637,2022-12-12,Raja Stationery,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,102792022120920221212051067
+638,2022-12-12,Yumna-mart,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,102802022121120221212047264
+639,2022-12-07,SanRes,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,102812022120520221207036142
+640,2022-12-09,JOYKO Official,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,102822022120820221209023099
+641,2022-12-23,Mother of Pearl by Tasya Farasya,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,102832022122020221223064239
+642,2022-12-31,FZR3,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,102842022123020221231114116
+643,2022-12-04,Garaf Official,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,102852022120220221204038144
+644,2022-12-07,Lynfashionista,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,102862022120420221207036183
+645,2022-12-26,Make Over Official Shop,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,102882022122320221226020224
+646,2022-12-13,KoboiTech,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,102892022121220221213094074
+647,2022-12-05,Dear Meee,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,102902022120420221205074052
+648,2022-12-11,officeXpres,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,102912022120820221211042096
+649,2022-12-31,Apotek Aulia Bekasi Utara,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,102922022123020221231081289
+650,2022-12-13,OPI Official,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,102932022121120221213098200
+651,2022-12-03,Apotek Aulia Bekasi Utara,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,102942022120120221203012289
+652,2022-12-23,Deli office automative,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,102952022122220221223122064
+653,2022-12-12,AnR-Shop,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,102962022121020221212079170
+654,2022-12-10,House of Smith Official,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,102972022120920221210094118
+655,2022-12-06,JOYKO Official,Darminto,Jl Sukanagara 21,Kota Bandung,16297,102982022120520221206071099
+656,2022-12-20,Apotek Century Kuningan City,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,102992022121720221220041268
+657,2022-12-08,loekita grosir,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,103002022120620221208067195
+658,2022-12-17,Derossa store,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,103012022121420221217069140
+659,2022-12-29,Putra Jaya 88,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,103022022122620221229024013
+660,2022-12-11,play with kiddos,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,103032022121020221211059113
+661,2022-12-13,X-Urband Official,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,103042022121220221213016124
+662,2022-12-26,ipstore_id,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,103052022122520221226059204
+663,2022-12-29,Proffe coffee,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,103062022122620221229008043
+664,2022-12-20,Razient,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,103072022121920221220083112
+665,2022-12-09,JIESUN_FASHION,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,103082022120820221209038198
+666,2022-12-15,ecinos,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,103092022121220221215126193
+667,2022-12-22,Apotek Aulia Bekasi Utara,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,103102022122020221222029289
+668,2022-12-29,GrafikaKita - Tech Official Jakarta,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,103112022122820221229052087
+669,2022-12-24,play with kiddos,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,103122022122320221224059113
+670,2022-12-21,G21,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,103132022121820221221099155
+671,2022-12-07,Glodok Shop Elektronik,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,103142022120520221207083071
+672,2022-12-03,Apotek Rio Bekasi Selatan,Evert Jimmy Lengkong,Jl Jend Urip Sumohardjo 31 E,Jakarta Pusat,17061,103152022120120221203101284
+673,2022-12-23,PANDA RETAIL SOLUTIONS,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,103162022122220221223080060
+674,2022-12-19,Raja Stationery,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,103172022121620221219110067
+675,2022-12-03,play with kiddos,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,103182022120120221203011113
+676,2022-12-07,JOYKO Official,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,103192022120620221207029099
+677,2022-12-16,snapy,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,103202022121520221216045081
+678,2022-12-05,loekita grosir,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,103212022120420221205062195
+679,2022-12-26,msmo,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,103222022122320221226094129
+680,2022-12-26,Agenjaketbandung,Bernie Prajoga,Jl Casa 2,Kota Bandung,16858,103242022122420221226044125
+681,2022-12-24,G21,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,103252022122220221224068155
+682,2022-12-23,barenbliss Official Store,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,103262022122120221223034245
+683,2022-12-12,Armani_collection.,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,103272022121120221212117121
+684,2022-12-18,DUMA Official,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,103282022121520221218106174
+685,2022-12-11,erjucom,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,103292022121020221211074014
+686,2022-12-11,ESQA Cosmetics,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,103302022120920221211057230
+687,2022-12-14,Apotek Rio Bekasi,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,103312022121120221214074274
+688,2022-12-12,HOOLIGANS,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,103322022121020221212061156
+689,2022-12-10,VICTORY FILTER16,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,103342022120720221210051001
+690,2022-12-05,Miisoo Official Shop,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,103352022120220221205016005
+691,2022-12-30,Clouwny,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,103362022122720221230019206
+692,2022-12-19,Raecca Official Store,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,103382022121620221219069259
+693,2022-12-31,Apotek Century Permata,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,103392022122920221231034302
+694,2022-12-26,ArEr fashion,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,103412022122420221226123133
+695,2022-12-15,AnR-Shop,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,103422022121420221215016170
+696,2022-12-07,Apotek Century Sunter Tanjung Priok,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,103432022120620221207036298
+697,2022-12-17,ArEr fashion,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,103442022121520221217089133
+698,2022-12-06,naomystore,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,103452022120420221206105149
+699,2022-12-09,Agenjaketbandung,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,103462022120720221209017125
+700,2022-12-09,INTI MEDIKA STORE,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,103472022120720221209019282
+701,2022-12-15,Raja Stationery,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,103482022121420221215030067
+702,2022-12-21,YLV Smart Home,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,103492022122020221221073095
+703,2022-12-22,UTAMA_ELECTRONIC,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,103502022122120221222118012
+704,2022-12-31,X-Urband Official,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,103512022122820221231113124
+705,2022-12-15,MAP.Store,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,103522022121220221215004049
+706,2022-12-19,Water.Online.Shop,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,103532022121620221219039055
+707,2022-12-18,Deli office automative,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,103542022121520221218005064
+708,2022-12-08,AINUN17 SHOP,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,103552022120720221208024072
+709,2022-12-16,Wardah Official,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,103562022121320221216123251
+710,2022-12-02,Proffe coffee,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,103572022120120221202083043
+711,2022-12-28,SanRes,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,103582022122620221228108142
+712,2022-12-28,Pixy Official Store,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,103592022122520221228064229
+713,2022-12-21,vesper,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,103602022122020221221037021
+714,2022-12-27,erjucom,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,103612022122620221227005014
+715,2022-12-11,Putra Jaya 88,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,103622022120820221211014013
+716,2022-12-23,madun oke,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,103632022122020221223050175
+717,2022-12-05,Apotek Rio Bekasi Selatan,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,103642022120220221205060284
+718,2022-12-08,F2_Sweater,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,103652022120620221208024181
+719,2022-12-06,Aerostreet,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,103662022120420221206051120
+720,2022-12-02,msmo,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,103672022120120221202088129
+721,2022-12-20,Suplementory Official,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,103682022121720221220103297
+722,2022-12-21,Gardha Komputer,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,103692022122020221221102085
+723,2022-12-21,lattina_shop,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,103702022121820221221026184
+724,2022-12-11,AlteaCare Official Store,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,103712022121020221211051310
+725,2022-12-19,play with kiddos,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,103722022121720221219099113
+726,2022-12-08,DELTONS Official Store,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,103732022120620221208042094
+727,2022-12-23,Bizmarts,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,103742022122120221223113280
+728,2022-12-08,STUDIO TROPIK,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,103752022120620221208089226
+729,2022-12-18,luxcrime,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,103762022121620221218041227
+730,2022-12-14,OTWOO Indonesia,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,103772022121220221214076246
+731,2022-12-21,SUKAMAJU_STORE,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,103782022121920221221025201
+732,2022-12-20,Autad20,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,103792022121720221220061173
+733,2022-12-24,Sanhatcollection,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,103802022122320221224053151
+734,2022-12-24,BEAUTYHAULINDO,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,103812022122120221224008243
+735,2022-12-14,Online Kios,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,103822022121320221214041068
+736,2022-12-24,SORU Indonesia,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,103842022122220221224119003
+737,2022-12-17,Everlasting Gift,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,103852022121520221217036091
+738,2022-12-05,SanRes,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,103862022120320221205003142
+739,2022-12-03,STUDIO TROPIK,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,103872022120220221203074226
+740,2022-12-27,DUMA Official,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,103882022122620221227125174
+741,2022-12-15,Aisyah Herbalindo,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,103902022121320221215070263
+742,2022-12-16,inayafashion,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,103912022121520221216062178
+743,2022-12-09,msmo,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,103932022120620221209025129
+744,2022-12-22,Armor_Shop,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,103942022122020221222102265
+745,2022-12-24,VICTORY FILTER16,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,103952022122220221224092001
+746,2022-12-21,Mesindo Jaya,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,103962022122020221221043220
+747,2022-12-13,Belanja Elektronik,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,103972022121120221213009008
+748,2022-12-14,sansscollection,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,103982022121120221214022199
+749,2022-12-13,Mireya Cosmetics,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,103992022121220221213108250
+750,2022-12-31,Sido Muncul Store,Evi Yulisma Harahap,Jl Kerinci 19,Jakarta Pusat,16526,104002022123020221231104276
+751,2022-12-24,inayafashion,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,104012022122320221224100178
+752,2022-12-27,SanRes,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,104022022122520221227102142
+753,2022-12-13,snapy,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,104032022121220221213021081
+754,2022-12-31,SORU Indonesia,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,104042022122820221231090003
+755,2022-12-11,K2 Official Store,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,104052022120920221211068042
+756,2022-12-28,Y&S Collections,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,104072022122620221228112210
+757,2022-12-28,JIESUN_FASHION,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,104082022122520221228040198
+758,2022-12-14,Wardah Official,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,104092022121120221214011251
+759,2022-12-24,Inez Official Store,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,104102022122120221224008256
+760,2022-12-13,Make Over Official Shop,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,104112022121020221213056224
+761,2022-12-10,Apotek Rejeki Tomang Grogol Petamburan,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,104122022120820221210072279
+762,2022-12-31,Rahsa Nusantara Official,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,104132022123020221231045316
+763,2022-12-26,Eternalworks,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,104152022122320221226097165
+764,2022-12-30,Batik MasTri Solo,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,104162022122920221230086130
+765,2022-12-20,Maxim Official Store,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,104172022121820221220029033
+766,2022-12-13,inayafashion,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,104182022121120221213100178
+767,2022-12-09,AINUN17 SHOP,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,104192022120720221209029072
+768,2022-12-15,PINKFLASH OFFICIAL STORE,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,104202022121220221215007233
+769,2022-12-12,Lalulaku,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,104212022121020221212116006
+770,2022-12-16,Mother of Pearl by Tasya Farasya,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,104222022121320221216005239
+771,2022-12-18,KremlinOfficial,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,104232022121720221218031122
+772,2022-12-18,F2_Sweater,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,104242022121720221218079181
+773,2022-12-22,MSOU SPORT,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,104252022122020221222051205
+774,2022-12-14,Cammomile FashionLine,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,104262022121320221214013191
+775,2022-12-11,SORU Indonesia,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,104272022120920221211105003
+776,2022-12-31,SWEPO Official Store,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,104282022123020221231093197
+777,2022-12-02,STUDIO TROPIK,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,104292022120120221202124226
+778,2022-12-19,Deli Stationery,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,104302022121720221219028056
+779,2022-12-07,AlteaCare Official Store,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,104312022120620221207125310
+780,2022-12-26,Apotek Dear Farma Medan Baru,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,104322022122420221226073269
+781,2022-12-24,Global Bangunan sukses,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,104342022122120221224061048
+782,2022-12-31,Mireya Cosmetics,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,104352022122820221231038250
+783,2022-12-30,Solusi Fingerprint,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,104362022122820221230038066
+784,2022-12-27,ipstore_id,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,104372022122620221227106204
+785,2022-12-11,erjucom,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,104382022121020221211051014
+786,2022-12-17,PUTRI_GROUP,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,104392022121620221217081215
+787,2022-12-05,SORU Indonesia,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,104402022120220221205032003
+788,2022-12-10,Raja Stationery,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,104412022120720221210053067
+789,2022-12-05,Apotek Sami Sehat Delanggu,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,104422022120420221205127306
+790,2022-12-19,Toko obat palembang,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,104432022121620221219095267
+791,2022-12-22,Parayu official shop,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,104442022121920221222039176
+792,2022-12-17,Apotek Bintang 7,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,104452022121420221217061311
+793,2022-12-21,Sido Muncul Store,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,104462022121820221221102276
+794,2022-12-22,ZenLiving,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,104472022121920221222112044
+795,2022-12-29,loekita grosir,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,104482022122720221229033195
+796,2022-12-19,YOU Beauty Official,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,104492022121720221219022225
+797,2022-12-19,Apotek Lucky Star Jakut,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,104502022121620221219003309
+798,2022-12-30,CARTEXBLANCHE,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,104512022122820221230072209
+799,2022-12-12,FZR3,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,104522022121120221212028116
+800,2022-12-14,Human Greatness Labs,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,104532022121120221214125131
+801,2022-12-18,House of Smith Official,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,104542022121620221218079118
+802,2022-12-29,Beli -Beli shop,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,104552022122820221229124286
+803,2022-12-14,Inteco Official Shop,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,104562022121320221214016037
+804,2022-12-27,play with kiddos,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,104572022122520221227024113
+805,2022-12-18,Berkah Natural Bersama,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,104582022121720221218004266
+806,2022-12-28,Ghani Bandung,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,104592022122520221228052158
+807,2022-12-19,Dear Meee,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,104602022121620221219018052
+808,2022-12-22,Beauty is Here,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,104612022122020221222119232
+809,2022-12-25,Deli office automative,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,104622022122320221225114064
+810,2022-12-26,Focallure Official Store,Evert Jimmy Lengkong,Jl Jend Urip Sumohardjo 31 E,Jakarta Pusat,17061,104632022122520221226101228
+811,2022-12-16,mandjur,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,104642022121420221216088285
+812,2022-12-07,TheStore Collection,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,104652022120620221207105141
+813,2022-12-12,SEDANA AMERTA,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,104662022121120221212126058
+814,2022-12-07,Herbal Store Bharata,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,104672022120520221207001294
+815,2022-12-29,Eternalworks,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,104682022122720221229121165
+816,2022-12-27,Apotek Rio Bekasi Selatan,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,104692022122620221227018284
+817,2022-12-26,Graha Printing,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,104702022122520221226010082
+818,2022-12-11,Putra Jaya 88,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,104712022120820221211038013
+819,2022-12-06,MR12 Office,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,104722022120320221206022103
+820,2022-12-17,MR12 Office,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,104742022121420221217092103
+821,2022-12-27,play with kiddos,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,104752022122420221227013113
+822,2022-12-31,naomystore,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,104762022122820221231058149
+823,2022-12-31,PT Harmoni Danatek Solusindo,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,104772022122820221231013057
+824,2022-12-24,Lalulaku,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,104782022122120221224086006
+825,2022-12-22,silfa qarin,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,104792022121920221222053182
+826,2022-12-25,GIZIDAT Official,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,104802022122320221225050317
+827,2022-12-06,Apotek Sumber Sehat 1,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,104812022120320221206022303
+828,2022-12-27,Mireya Cosmetics,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,104822022122520221227115250
+829,2022-12-18,Gudang Jaket Tas,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,104832022121520221218022188
+830,2022-12-12,SOMETHINC official,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,104842022121120221212009241
+831,2022-12-09,ES Official Store,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,104852022120820221209023024
+832,2022-12-12,Health&Beauty Solution,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,104862022121020221212020086
+833,2022-12-30,SUN INDONESIA,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,104872022122820221230006083
+834,2022-12-24,YOU Beauty Official,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,104882022122320221224094225
+835,2022-12-11,Apotek Aulia Bekasi Utara,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,104892022120920221211023289
+836,2022-12-18,Beauty is Here,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,104902022121620221218103232
+837,2022-12-23,Topone 88,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,104912022122020221223114167
+838,2022-12-14,inimurah shop,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,104922022121320221214092076
+839,2022-12-22,Maybelline Official Shop,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,104932022121920221222102253
+840,2022-12-30,MR12 Office,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,104942022122820221230021103
+841,2022-12-09,SANDANGMAS MULYA,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,104962022120620221209110185
+842,2022-12-16,Clouwny,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,104972022121320221216127206
+843,2022-12-14,THENBLANK,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,104982022121220221214119219
+844,2022-12-08,Kastil Drakula,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,104992022120620221208103084
+845,2022-12-16,Monellina Fashion,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,105002022121320221216004179
+846,2022-12-09,BLP Official Store,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,105012022120820221209040240
+847,2022-12-03,Quantum Home Appliances,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,105022022120220221203027018
+848,2022-12-16,SUN INDONESIA,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,105032022121320221216024083
+849,2022-12-08,Anggi Colection Shop,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,105042022120720221208126169
+850,2022-12-08,Make Over Official Shop,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,105052022120520221208041224
+851,2022-12-31,OTWOO Indonesia,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,105062022122820221231088246
+852,2022-12-22,GrafikaKita - Tech Official Jakarta,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,105072022122120221222014087
+853,2022-12-04,Maslinda Store,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,105082022120220221204035079
+854,2022-12-11,simplicityapparel,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,105092022121020221211025154
+855,2022-12-28,COTTON GOODS STORE,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,105102022122520221228058157
+856,2022-12-31,PINZY Official Store,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,105112022122820221231052011
+857,2022-12-27,Toko Armada Satu,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,105122022122520221227020127
+858,2022-12-16,Lalulaku,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,105152022121420221216068006
+859,2022-12-14,officeXpres,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,105162022121120221214035096
+860,2022-12-10,ONLYSNEAKERS.ID,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,105172022120820221210069143
+861,2022-12-05,Apotek Mario Cengkareng,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,105182022120220221205105305
+862,2022-12-11,Belanja Elektronik,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,105192022120820221211072008
+863,2022-12-20,Pigeon Teens Indonesia,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,105202022121720221220072237
+864,2022-12-13,ChinaTown,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,105212022121220221213107038
+865,2022-12-28,Ung Sira Store,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,105222022122720221228009135
+866,2022-12-12,Kastil Drakula,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,105232022120920221212027084
+867,2022-12-27,SanRes,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,105242022122620221227009142
+868,2022-12-08,Belanja Elektronik,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,105252022120520221208118008
+869,2022-12-29,Ung Sira Store,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,105262022122620221229105135
+870,2022-12-19,look180,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,105272022121620221219126172
+871,2022-12-22,Sanjaya Stationary,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,105282022122120221222011106
+872,2022-12-21,Lancar Jaya Store,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,105292022121820221221013078
+873,2022-12-12,GrosirPakaianRajut,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,105302022120920221212018186
+874,2022-12-14,Lavios,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,105312022121120221214074028
+875,2022-12-20,CrafTex,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,105332022121820221220048114
+876,2022-12-28,Livehaf Official,Darminto,Jl Sukanagara 21,Kota Bandung,16297,105342022122520221228071123
+877,2022-12-24,snapy,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,105352022122220221224115081
+878,2022-12-14,AINUN17 SHOP,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,105362022121220221214011072
+879,2022-12-06,Apotek Century Permata,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,105372022120320221206098302
+880,2022-12-10,Markotashop,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,105392022120920221210112189
+881,2022-12-13,Solusi Fingerprint,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,105402022121220221213119066
+882,2022-12-21,PINZY Official Store,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,105412022121920221221081011
+883,2022-12-12,CrafTex,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,105422022121020221212064114
+884,2022-12-14,dollylab,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,105432022121320221214105292
+885,2022-12-28,look180,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,105442022122620221228042172
+886,2022-12-18,Raja Stationery,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,105452022121720221218030067
+887,2022-12-16,Emina Official Store,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,105462022121420221216032234
+888,2022-12-09,Troveast Official Store,Aluinanto Sandjojo,Jl Inspeksi Saluran Kalimalang 9 A-B,Jakarta Pusat,16035,105472022120820221209002150
+889,2022-12-10,lbagstore,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,105482022120720221210077010
+890,2022-12-09,HNA-houseware,Darminto,Jl Sukanagara 21,Kota Bandung,16297,105492022120820221209071050
+891,2022-12-14,Aerostreet,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,105502022121120221214078120
+892,2022-12-11,play with kiddos,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,105512022120820221211077113
+893,2022-12-04,PSORIA Official,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,105522022120120221204079318
+894,2022-12-24,Lynfashionista,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,105532022122320221224110183
+895,2022-12-05,Apotek Batu Permata Bandung,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,105542022120420221205114288
+896,2022-12-20,KoboiTech,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,105552022121920221220125074
+897,2022-12-05,Dolphin Tamiya Hobby,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,105562022120320221205127207
+898,2022-12-05,Apotek Sehat Kota Batu,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,105572022120420221205081290
+899,2022-12-26,msmo,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,105582022122320221226099129
+900,2022-12-05,Goto Living,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,105592022120320221205087036
+901,2022-12-19,zero plus,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,105602022121720221219025069
+902,2022-12-23,Deli office automative,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,105612022122220221223050064
+903,2022-12-09,LUXEWARES,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,105622022120820221209073019
+904,2022-12-05,Lsean,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,105632022120420221205028034
+905,2022-12-08,Pixy Official Store,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,105642022120720221208053229
+906,2022-12-14,Suplementory Official,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,105652022121320221214060297
+907,2022-12-06,Make Over Official Shop,Benny Tenges,Jl Gn Rahayu 1 A,Kota Bandung,16993,105662022120420221206040224
+908,2022-12-07,Make Over Official Shop,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,105672022120520221207069224
+909,2022-12-06,Maximum Chemical,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,105682022120520221206116270
+910,2022-12-23,lattina_shop,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,105692022122120221223102184
+911,2022-12-13,AINUN17 SHOP,Evi Yulisma Harahap,Jl Kerinci 19,Jakarta Pusat,16526,105702022121120221213104072
+912,2022-12-05,erjucom,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,105712022120420221205105014
+913,2022-12-12,Zazah Queen,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,105722022121120221212006027
+914,2022-12-27,Apotek Aulia Bekasi Utara,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,105732022122620221227089289
+915,2022-12-22,Deli office automative,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,105742022121920221222027064
+916,2022-12-20,lbagstore,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,105752022121820221220015010
+917,2022-12-04,Toko Armada Satu,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,105762022120220221204076127
+918,2022-12-24,Deli Stationery,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,105772022122320221224061056
+919,2022-12-11,Gardha Komputer,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,105782022121020221211029085
+920,2022-12-16,Tissor Official,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,105792022121420221216005062
+921,2022-12-20,Tissor Official,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,105802022121720221220064062
+922,2022-12-11,DELTONS Official Store,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,105812022120820221211115094
+923,2022-12-09,UTAMA_ELECTRONIC,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,105822022120820221209025012
+924,2022-12-07,Suplementory Official,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,105832022120620221207008297
+925,2022-12-23,lattina_shop,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,105842022122120221223097184
+926,2022-12-15,Apotek Lucky Star Tanjung Priok,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,105852022121220221215116281
+927,2022-12-20,Livehaf Official,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,105862022121720221220019123
+928,2022-12-31,SORU Indonesia,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,105872022123020221231068003
+929,2022-12-23,Satu Elektronik,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,105882022122120221223028025
+930,2022-12-20,Oxihom,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,105892022121820221220100015
+931,2022-12-06,gotasa,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,105902022120320221206016208
+932,2022-12-10,Apotek Century Tunjungan Plaza,Hiramsyah Sambudhy Thaib,Jl Tmn Apsari 9 C,Kota Pasuruan,15419,105912022120820221210111313
+933,2022-12-10,PINKFLASH OFFICIAL STORE,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,105922022120720221210100233
+934,2022-12-22,Maslinda Store,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,105932022122020221222062079
+935,2022-12-05,Apotek Century Permata,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,105942022120420221205027302
+936,2022-12-22,SOMETHINC official,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,105952022121920221222035241
+937,2022-12-24,OTWOO Indonesia,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,105962022122120221224115246
+938,2022-12-11,Sido Muncul Store,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,105972022120920221211108276
+939,2022-12-31,herbalaku,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,105982022123020221231127307
+940,2022-12-13,dollylab,Edy Suwarno,Jl Ciputat Raya 16,Jakarta Selatan,16820,105992022121220221213085292
+941,2022-12-20,Baseus Official Store,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,106002022121820221220034065
+942,2022-12-27,Apotek Dear Farma Medan Baru,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,106012022122520221227042269
+943,2022-12-06,THENBLANK,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,106022022120420221206075219
+944,2022-12-21,Nazava Water Filters,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,106032022121820221221088032
+945,2022-12-10,CrafTex,Bernie Prajoga,Jl Casa 2,Kota Bandung,16858,106042022120920221210044114
+946,2022-12-14,OTWOO Indonesia,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,106052022121320221214108246
+947,2022-12-11,X-Urband Official,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,106062022120920221211014124
+948,2022-12-19,Fesyana Store,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,106072022121720221219112190
+949,2022-12-21,Apotek Sumber Sehat 1,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,106082022122020221221025303
+950,2022-12-12,Y&S Collections,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,106092022121120221212024210
+951,2022-12-04,Apotek Rio Bekasi,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,106102022120220221204047274
+952,2022-12-13,Saku Official,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,106112022121020221213056110
+953,2022-12-08,CARTEXBLANCHE,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,106122022120620221208011209
+954,2022-12-04,lbagstore,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,106132022120320221204053010
+955,2022-12-20,GrosirPakaianRajut,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,106142022121720221220014186
+956,2022-12-16,LT Pro Official,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,106152022121420221216063257
+957,2022-12-22,COTTON GOODS STORE,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,106162022121920221222090157
+958,2022-12-23,Ghani Bandung,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,106172022122020221223018158
+959,2022-12-30,ONLYSNEAKERS.ID,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,106182022122720221230059143
+960,2022-12-18,Mother of Pearl by Tasya Farasya,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,106192022121520221218004239
+961,2022-12-13,Quantum Home Appliances,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,106202022121220221213019018
+962,2022-12-25,lbagstore,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,106212022122320221225076010
+963,2022-12-13,msmo,Hiramsyah Sambudhy Thaib,Jl Tmn Apsari 9 C,Kota Pasuruan,15419,106222022121120221213111129
+964,2022-12-23,Rose All Day Cosmetics,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,106232022122020221223048254
+965,2022-12-25,Deli office automative,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,106252022122220221225079064
+966,2022-12-06,Apotek Sehat Kota Batu,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,106262022120320221206012290
+967,2022-12-23,CENTURY HEALTHCARE,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,106272022122020221223053275
+968,2022-12-18,Apotek Rio Bekasi Selatan,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,106282022121720221218070284
+969,2022-12-16,PURBASARI INDONESIA,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,106292022121320221216115249
+970,2022-12-24,Deli office automative,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,106302022122320221224096064
+971,2022-12-20,luxcrime,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,106312022121720221220058227
+972,2022-12-29,Apotek Bintang 7,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,106322022122820221229062311
+973,2022-12-31,JOYKO Official,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,106332022122820221231076099
+974,2022-12-28,Livehaf Official,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,106342022122520221228047123
+975,2022-12-05,Water.Online.Shop,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,106352022120320221205043055
+976,2022-12-20,KremlinOfficial,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,106362022121920221220096122
+977,2022-12-18,Ung Sira Store,Edy Susanto,Jl Gaperta Ujung 58,Sumatera Utara,16887,106372022121720221218084135
+978,2022-12-22,LT Pro Official,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,106382022122020221222090257
+979,2022-12-20,Deli office automative,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,106392022121920221220089064
+980,2022-12-06,DELTONS Official Store,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,106402022120420221206038094
+981,2022-12-10,AppShoppe,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,106412022120820221210120090
+982,2022-12-06,Suplementory Official,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,106422022120520221206011297
+983,2022-12-30,Aerostreet,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,106432022122820221230068120
+984,2022-12-22,Emina Official Store,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,106442022122020221222094234
+985,2022-12-18,VQ TECHNOLOGY,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,106452022121720221218037061
+986,2022-12-28,luxcrime,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,106462022122620221228076227
+987,2022-12-05,CrafTex,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,106472022120320221205116114
+988,2022-12-14,lattina_shop,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,106482022121320221214032184
+989,2022-12-06,G21,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,106502022120320221206082155
+990,2022-12-25,Batik MasTri Solo,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,106512022122420221225067130
+991,2022-12-17,SORU Indonesia,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,106522022121420221217030003
+992,2022-12-19,Apotek Aulia Bekasi Utara,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,106532022121820221219072289
+993,2022-12-28,look180,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,106542022122720221228023172
+994,2022-12-20,ONLYSNEAKERS.ID,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,106552022121720221220126143
+995,2022-12-20,play with kiddos,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,106572022121720221220056113
+996,2022-12-11,simplicityapparel,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,106582022120820221211007154
+997,2022-12-08,SUN INDONESIA,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,106592022120720221208011083
+998,2022-12-22,SOMETHINC official,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,106602022121920221222027241
+999,2022-12-20,Zazah Queen,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,106612022121820221220125027
+1000,2022-12-10,loekita grosir,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,106622022120920221210113195
+1001,2022-12-11,Wardah Official,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,106632022120820221211092251
+1002,2022-12-26,Focallure Official Store,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,106642022122420221226026228
+1003,2022-12-29,Maximum Chemical,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,106662022122620221229047270
+1004,2022-12-16,play with kiddos,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,106672022121520221216019113
+1005,2022-12-18,play with kiddos,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,106682022121520221218093113
+1006,2022-12-24,AlteaCare Official Store,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,106692022122320221224072310
+1007,2022-12-20,GrosirPakaianRajut,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,106702022121720221220045186
+1008,2022-12-11,Berkah Natural Bersama,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,106712022121020221211050266
+1009,2022-12-26,Zazah Queen,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,106732022122320221226018027
+1010,2022-12-26,ecinos,Bobby Iman Satrio,Jl Kom L Yos Sudarso 27,Jakarta Pusat,15391,106742022122420221226055193
+1011,2022-12-18,luxcrime,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,106752022121620221218065227
+1012,2022-12-10,Apotek Aulia Bekasi Utara,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,106762022120820221210012289
+1013,2022-12-30,luxcrime,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,106772022122720221230082227
+1014,2022-12-05,Wardah Official,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,106782022120320221205053251
+1015,2022-12-24,msmo,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,106792022122220221224041129
+1016,2022-12-06,Erigo Official,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,106802022120420221206021166
+1017,2022-12-02,YLV Smart Home,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,106812022120120221202076095
+1018,2022-12-27,lapak atk,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,106822022122520221227027092
+1019,2022-12-11,Menjual Serba Ada,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,106832022120920221211032162
+1020,2022-12-25,Berkah Natural Bersama,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,106842022122420221225024266
+1021,2022-12-11,Livehaf Official,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,106852022120920221211025123
+1022,2022-12-05,Bless Cosmetics ID,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,106862022120220221205106238
+1023,2022-12-22,zero plus,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,106872022122020221222088069
+1024,2022-12-06,Aerostreet,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,106882022120520221206125120
+1025,2022-12-20,Armor_Shop,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,106892022121720221220045265
+1026,2022-12-23,To Sehat Jakarta,Christian Dieter Scholz,Jl Tmn Sari Raya 5 D,Jakarta Pusat,16817,106912022122020221223057247
+1027,2022-12-25,Deli office automative,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,106922022122320221225075064
+1028,2022-12-24,PSORIA Official,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,106932022122120221224088318
+1029,2022-12-06,Rahsa Nusantara Official,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,106942022120520221206077316
+1030,2022-12-08,Solusi Fingerprint,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,106952022120520221208089066
+1031,2022-12-31,Deli office automative,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,106962022122820221231087064
+1032,2022-12-14,Bizmarts,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,106972022121120221214063280
+1033,2022-12-15,Aerostreet,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,106982022121220221215076120
+1034,2022-12-12,YOU Beauty Official,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,106992022121120221212073225
+1035,2022-12-04,Herbal Store Bharata,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,107002022120320221204032294
+1036,2022-12-06,majafashionhouse,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,107012022120320221206007187
+1037,2022-12-29,Beli -Beli shop,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,107022022122820221229092286
+1038,2022-12-17,OTWOO Indonesia,Bayu Virgan Triyatno,Jl Kota Denpasarkpapan 29-31,Jakarta Selatan,15536,107042022121520221217027246
+1039,2022-12-11,Putra Jaya 88,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,107062022120920221211099013
+1040,2022-12-10,Aerostreet,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,107072022120920221210102120
+1041,2022-12-12,Maxim Official Store,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,107082022120920221212086033
+1042,2022-12-16,simplicityapparel,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,107092022121420221216108154
+1043,2022-12-30,JIESUN_FASHION,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,107102022122820221230082198
+1044,2022-12-15,Mesindo Jaya,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,107112022121320221215114220
+1045,2022-12-04,luxcrime,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,107122022120220221204011227
+1046,2022-12-09,gotasa,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,107142022120620221209024208
+1047,2022-12-17,Energi Herbals,Andreas Andikha Bunanta,Jl Mampang Prapatan Raya 106 Plaza Basmar,Jakarta Selatan,16591,107152022121520221217023262
+1048,2022-12-11,Apotek Mario Cengkareng,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,107162022121020221211109305
+1049,2022-12-18,StreetWearSupply,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,107172022121520221218025138
+1050,2022-12-17,Ultima II Official Store,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,107182022121520221217086261
+1051,2022-12-25,Beauty is Here,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,107202022122320221225059232
+1052,2022-12-31,Fesyana Store,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,107212022123020221231117190
+1053,2022-12-22,Lalulaku,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,107222022122020221222007006
+1054,2022-12-05,inayafashion,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,107242022120320221205060178
+1055,2022-12-07,Apotek Labora Jaya,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,107252022120420221207126296
+1056,2022-12-05,Apotek Kenaiban,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,107262022120320221205016312
+1057,2022-12-30,PUTRI_GROUP,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,107272022122720221230067215
+1058,2022-12-23,Markotashop,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,107282022122220221223080189
+1059,2022-12-17,Gudang Jaket Tas,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,107292022121420221217095188
+1060,2022-12-17,Make Over Official Shop,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,107302022121520221217075224
+1061,2022-12-08,fuishop,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,107312022120520221208120260
+1062,2022-12-02,Sido Muncul Store,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,107322022120120221202028276
+1063,2022-12-05,Rumahku Official,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,107332022120420221205069023
+1064,2022-12-28,SOMETHINC official,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,107342022122720221228025241
+1065,2022-12-27,cakraton,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,107352022122520221227092314
+1066,2022-12-15,Lancar Jaya Store,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,107362022121420221215080078
+1067,2022-12-30,Lalulaku,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,107372022122720221230011006
+1068,2022-12-13,Twelve Hours Co.,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,107382022121120221213116295
+1069,2022-12-04,Apotek Mario Cengkareng,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,107392022120120221204050305
+1070,2022-12-17,CENTURY HEALTHCARE,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,107422022121520221217012275
+1071,2022-12-11,Apotek Rio Bekasi,Eko Budianto,Jl Raden Saleh 1 B-D,Jakarta Pusat,16110,107432022120820221211091274
+1072,2022-12-30,Putra Jaya 88,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,107442022122720221230052013
+1073,2022-12-23,Apotek Labora Jaya,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,107452022122120221223088296
+1074,2022-12-27,vesper,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,107462022122420221227124021
+1075,2022-12-30,Lalulaku,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,107472022122720221230011006
+1076,2022-12-14,Freestyle-Official,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,107482022121120221214098119
+1077,2022-12-26,GrafikaKita - Tech Official Jakarta,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,107492022122320221226034087
+1078,2022-12-14,ArEr fashion,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,107502022121220221214094133
+1079,2022-12-11,michaelscollection,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,107512022120920221211019223
+1080,2022-12-23,Raja Stationery,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,107522022122220221223077067
+1081,2022-12-03,Dolphin Tamiya Hobby,Bernie Prajoga,Jl Casa 2,Kota Bandung,16858,107532022120220221203044207
+1082,2022-12-08,Guele Id,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,107542022120520221208035255
+1083,2022-12-20,Apotek Batu Permata Bandung,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,107552022121820221220100288
+1084,2022-12-11,aldiano22 shop,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,107562022121020221211121088
+1085,2022-12-06,Apotek Provita,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,107572022120320221206097304
+1086,2022-12-16,Apotek Bintang 7,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,107582022121420221216122311
+1087,2022-12-31,COTTON GOODS STORE,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,107592022123020221231056157
+1088,2022-12-27,SORU Indonesia,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,107602022122420221227110003
+1089,2022-12-09,Deli Stationery,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,107612022120720221209048056
+1090,2022-12-07,Sora Knit,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,107622022120420221207092203
+1091,2022-12-23,Apotek Mario Cengkareng,Hiramsyah Sambudhy Thaib,Jl Tmn Apsari 9 C,Kota Pasuruan,15419,107632022122220221223111305
+1092,2022-12-20,Sanhatcollection,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,107642022121920221220124151
+1093,2022-12-28,Quantum Home Appliances,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,107652022122720221228120018
+1094,2022-12-21,Quantum Home Appliances,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,107662022122020221221048018
+1095,2022-12-26,Garaf Official,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,107672022122320221226067144
+1096,2022-12-19,Maxim Official Store,Elvina Jonas Jahja,Jl Kayu Putih 7 A 8 Pulo Gadung,Jakarta Pusat,17050,107682022121820221219094033
+1097,2022-12-07,PAKAN LOVEBIRD MBOK DEWI,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,107692022120420221207014132
+1098,2022-12-24,Apotek Provita,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,107712022122120221224118304
+1099,2022-12-22,Apotek Rejeki Tomang Grogol Petamburan,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,107732022122120221222028279
+1100,2022-12-29,BEAUTYHAULINDO,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,107742022122820221229110243
+1101,2022-12-08,PINZY Official Store,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,107752022120520221208077011
+1102,2022-12-31,Rumix,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,107762022123020221231103063
+1103,2022-12-11,cakraton,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,107772022121020221211127314
+1104,2022-12-20,Toko Armada Satu,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,107782022121820221220005127
+1105,2022-12-24,Twelve Hours Co.,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,107802022122320221224105295
+1106,2022-12-28,Apotek Batu Permata Bandung,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,107822022122720221228025288
+1107,2022-12-27,SUKAMAJU_STORE,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,107832022122520221227032201
+1108,2022-12-30,Maslinda Store,JENNY WIDJAJA,Jl Hayam Wuruk 120,Jakarta Barat,15841,107842022122820221230116079
+1109,2022-12-22,House of Smith Official,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,107852022122020221222069118
+1110,2022-12-28,KremlinOfficial,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,107882022122720221228119122
+1111,2022-12-17,F2_Sweater,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,107892022121420221217019181
+1112,2022-12-26,Pigeon Teens Indonesia,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,107912022122520221226093237
+1113,2022-12-17,Electron,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,107932022121620221217039073
+1114,2022-12-30,Gardha Komputer,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,107942022122820221230122085
+1115,2022-12-30,play with kiddos,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,107952022122820221230103113
+1116,2022-12-31,MOJO_FASHION,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,107962022122920221231074148
+1117,2022-12-27,Meliyana,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,107972022122420221227083040
+1118,2022-12-04,Maximum Chemical,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,107982022120320221204098270
+1119,2022-12-05,Tissor Official,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,107992022120220221205028062
+1120,2022-12-05,Belanja Elektronik,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,108002022120320221205005008
+1121,2022-12-22,Raecca Official Store,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,108012022122020221222114259
+1122,2022-12-18,Deli office automative,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,108022022121520221218041064
+1123,2022-12-14,safirablazer. id,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,108032022121120221214078222
+1124,2022-12-28,Apotek Sami Sehat Delanggu,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,108042022122720221228067306
+1125,2022-12-03,PINZY Official Store,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,108052022120220221203058011
+1126,2022-12-26,Focallure Official Store,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,108062022122420221226099228
+1127,2022-12-06,Apotek Dear Farma Medan Baru,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,108072022120420221206107269
+1128,2022-12-03,OTWOO Indonesia,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,108082022120220221203117246
+1129,2022-12-26,Gudang Jaket Tas,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,108092022122320221226021188
+1130,2022-12-04,Apotek Rio Bekasi Selatan,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,108102022120320221204018284
+1131,2022-12-28,YOU Beauty Official,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,108112022122520221228062225
+1132,2022-12-17,KremlinOfficial,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,108122022121620221217090122
+1133,2022-12-22,Ultima II Official Store,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,108132022121920221222022261
+1134,2022-12-17,Saku Official,Hiramsyah Sambudhy Thaib,Jl Tmn Apsari 9 C,Kota Pasuruan,15419,108142022121620221217111110
+1135,2022-12-22,j--fashion,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,108152022122020221222108217
+1136,2022-12-04,Wardah Official,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,108162022120220221204073251
+1137,2022-12-26,DUMA Official,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,108172022122520221226054174
+1138,2022-12-30,T & W,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,108192022122720221230120053
+1139,2022-12-06,ind_jaket999,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,108202022120320221206017147
+1140,2022-12-30,UTAMA_ELECTRONIC,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,108212022122920221230062012
+1141,2022-12-10,Toko Armada Satu,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,108222022120820221210025127
+1142,2022-12-09,Setia Mandiri Elektronik,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,108232022120820221209063041
+1143,2022-12-29,Armor_Shop,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,108242022122620221229047265
+1144,2022-12-26,Apotek Rio Bekasi Selatan,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,108252022122420221226061284
+1145,2022-12-13,Dear Meee,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,108262022121020221213033052
+1146,2022-12-09,Hi-Cook Official,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,108272022120820221209009035
+1147,2022-12-18,Solusi Fingerprint,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,108282022121520221218020066
+1148,2022-12-27,Mother of Pearl by Tasya Farasya,Edy Suwarno,Jl Ciputat Raya 16,Jakarta Selatan,16820,108292022122420221227085239
+1149,2022-12-05,GrosirPakaianRajut,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,108302022120320221205018186
+1150,2022-12-23,Apotek Dear Farma Medan Baru,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,108312022122020221223025269
+1151,2022-12-15,TOKO BESI TIMUR JAYA,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,108332022121420221215012017
+1152,2022-12-31,GrosirPakaianRajut,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,108342022122820221231107186
+1153,2022-12-05,STUDIO TROPIK,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,108352022120420221205047226
+1154,2022-12-06,Wardah Official,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,108362022120320221206121251
+1155,2022-12-23,Fesyana Store,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,108372022122220221223017190
+1156,2022-12-14,ipstore_id,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,108382022121220221214070204
+1157,2022-12-05,Freestyle-Official,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,108392022120320221205037119
+1158,2022-12-10,Berkah Natural Bersama,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,108402022120720221210100266
+1159,2022-12-09,Raecca Official Store,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,108412022120820221209063259
+1160,2022-12-08,NOSH,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,108422022120520221208122214
+1161,2022-12-28,Tunas Jaya Indotama,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,108432022122720221228031111
+1162,2022-12-19,sansscollection,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,108442022121720221219030199
+1163,2022-12-31,Apotek Sana Farma Majapahit,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,108452022123020221231080308
+1164,2022-12-30,Wakata Living,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,108462022122920221230049004
+1165,2022-12-19,F2_Sweater,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,108472022121820221219080181
+1166,2022-12-28,VQ TECHNOLOGY,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,108482022122720221228024061
+1167,2022-12-13,Apotek Sumber Sehat 1,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,108492022121120221213036303
+1168,2022-12-18,aldiano22 shop,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,108502022121720221218033088
+1169,2022-12-17,Nazava Water Filters,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,108512022121520221217047032
+1170,2022-12-21,Grosir Kitchenware,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,108522022122020221221016031
+1171,2022-12-05,GrafikaKita - Tech Official Jakarta,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,108532022120420221205096087
+1172,2022-12-17,happymartonline,Elsa Djauhari,Jl Ngagel Tirtosari 19,Kota Pasuruan,16072,108542022121620221217092009
+1173,2022-12-19,SUN INDONESIA,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,108552022121820221219098083
+1174,2022-12-03,Tissor Official,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,108562022120220221203127062
+1175,2022-12-26,SWEPO Official Store,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,108572022122420221226046197
+1176,2022-12-12,PINKFLASH OFFICIAL STORE,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,108592022121020221212088233
+1177,2022-12-29,DPRINCE,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,108602022122620221229022022
+1178,2022-12-21,PINKFLASH OFFICIAL STORE,Daswi Rayawang,Jl Sunan Giri 1 RT 012/15,Jakarta Pusat,17037,108612022121920221221079233
+1179,2022-12-15,SORU Indonesia,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,108622022121220221215088003
+1180,2022-12-13,dollylab,Isenta Hioe,Jl Mandiri 9,Jakarta Barat,17224,108632022121020221213114292
+1181,2022-12-15,BioCloud Absensi Online,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,108642022121320221215008089
+1182,2022-12-25,F BRAND FASHION,Andi Achmad Dara,Jl Sumagung III Kav Bulak K/5,Jakarta Utara,16681,108652022122320221225014192
+1183,2022-12-27,OMG Oh My Glam Official,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,108662022122420221227054248
+1184,2022-12-26,Tokosebelah2021,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,108672022122520221226117160
+1185,2022-12-04,Deli Stationery,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,108682022120320221204010056
+1186,2022-12-08,Armor_Shop,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,108692022120620221208026265
+1187,2022-12-02,Ailive Store,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,108702022120120221202009029
+1188,2022-12-18,sahabatmulya74,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,108712022121620221218108107
+1189,2022-12-24,COTTON GOODS STORE,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,108732022122120221224054157
+1190,2022-12-16,majafashionhouse,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,108742022121320221216064187
+1191,2022-12-15,Tokosebelah2021,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,108752022121220221215025160
+1192,2022-12-17,Menjual Serba Ada,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,108762022121420221217080162
+1193,2022-12-09,Lancar Jaya Store,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,108772022120720221209003078
+1194,2022-12-31,ES Official Store,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,108792022122820221231032024
+1195,2022-12-22,CENTURY HEALTHCARE,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,108802022122020221222062275
+1196,2022-12-16,Belanja Elektronik,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,108812022121420221216018008
+1197,2022-12-21,msmo,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,108822022121920221221082129
+1198,2022-12-29,barenbliss Official Store,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,108832022122720221229035245
+1199,2022-12-06,Livehaf Official,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,108842022120420221206034123
+1200,2022-12-28,Apotek Labora Jaya,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,108852022122520221228058296
+1201,2022-12-14,Prepp Studio Official Store,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,108862022121220221214018134
+1202,2022-12-15,STUDIO TROPIK,Darminto,Jl Sukanagara 21,Kota Bandung,16297,108872022121220221215071226
+1203,2022-12-16,OTWOO Indonesia,Efendi Boedhiman,Jl Pejaten Brt 10 A,Jakarta Selatan,16965,108882022121520221216086246
+1204,2022-12-07,AlteaCare Official Store,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,108892022120620221207112310
+1205,2022-12-09,herbalaku,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,108902022120820221209011307
+1206,2022-12-28,Guele Id,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,108912022122720221228011255
+1207,2022-12-18,SANDANGMAS MULYA,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,108932022121620221218087185
+1208,2022-12-11,naomystore,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,108942022120820221211106149
+1209,2022-12-23,X-Urband Official,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,108952022122220221223125124
+1210,2022-12-13,DPRINCE,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,108962022121020221213031022
+1211,2022-12-03,Apotek Sehat Kota Batu,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,108972022120220221203083290
+1212,2022-12-18,Ultima II Official Store,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,108982022121620221218034261
+1213,2022-12-27,Make Over Official Shop,Alwi Alatas,Jl Tanjung 2,Kota Solo,17087,108992022122520221227004224
+1214,2022-12-17,PSORIA Official,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,109002022121620221217070318
+1215,2022-12-15,GMF2015,Emil Abeng,Jl Kutisari Raya 12,Kota Pasuruan,16049,109012022121220221215097163
+1216,2022-12-26,Rollover Reaction,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,109022022122420221226078231
+1217,2022-12-22,Lynfashionista,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,109032022122120221222075183
+1218,2022-12-08,SORU Indonesia,Darminto,Jl Sukanagara 21,Kota Bandung,16297,109042022120620221208071003
+1219,2022-12-18,Rumix,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,109052022121620221218013063
+1220,2022-12-29,Sora Knit,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,109072022122620221229113203
+1221,2022-12-25,X-Urband Official,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,109082022122420221225118124
+1222,2022-12-05,Lalulaku,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,109092022120220221205056006
+1223,2022-12-10,Deli office automative,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,109102022120720221210015064
+1224,2022-12-25,Aerostreet,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,109112022122220221225046120
+1225,2022-12-31,happymartonline,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,109122022122920221231087009
+1226,2022-12-04,DUMA Official,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,109132022120120221204127174
+1227,2022-12-16,Online Kios,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,109142022121320221216003068
+1228,2022-12-25,JOYKO Official,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,109162022122320221225008099
+1229,2022-12-25,Eternalworks,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,109172022122320221225065165
+1230,2022-12-07,Apotek Century Sunter Tanjung Priok,Edy Susanto,Jl Gaperta Ujung 58,Sumatera Utara,16887,109182022120620221207084298
+1231,2022-12-26,OPI Official,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,109192022122520221226118200
+1232,2022-12-23,Apotek Rio Bekasi Selatan,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,109202022122020221223121284
+1233,2022-12-21,SORU Indonesia,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,109212022122020221221121003
+1234,2022-12-17,Goto Living,Johan Soedibjo,Jl Probolinggo 5,Jakarta Barat,17273,109232022121420221217118036
+1235,2022-12-13,Tentronics,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,109242022121020221213032054
+1236,2022-12-23,Make Over Official Shop,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,109252022122220221223105224
+1237,2022-12-31,STUDIO TROPIK,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,109272022122920221231006226
+1238,2022-12-07,FZR3,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,109282022120520221207126116
+1239,2022-12-06,Apotek Rio Bekasi Selatan,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,109292022120520221206076284
+1240,2022-12-03,Apotek Sana Farma Majapahit,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,109302022120120221203090308
+1241,2022-12-18,Eroc Official Store,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,109322022121520221218107059
+1242,2022-12-13,EzzyMart JAKARTA,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,109332022121020221213053045
+1243,2022-12-17,Lancar Jaya Store,Dany Subrata,Jl Metro Permata Bl A-2/33,Jakarta Pusat,15640,109342022121620221217066078
+1244,2022-12-15,silfa qarin,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,109352022121220221215124182
+1245,2022-12-04,Deli Stationery,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,109362022120220221204095056
+1246,2022-12-15,Livehaf Official,Darmansjah Darsono,Jl Bantir 10 50651,Kota Solo,15323,109372022121220221215069123
+1247,2022-12-09,Pigeon Teens Indonesia,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,109382022120620221209077237
+1248,2022-12-25,erjucom,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,109392022122420221225109014
+1249,2022-12-24,Make Over Official Shop,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,109402022122320221224062224
+1250,2022-12-07,GIZIDAT Official,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,109412022120420221207110317
+1251,2022-12-27,Ultima II Official Store,Bernie Prajoga,Jl Casa 2,Kota Bandung,16858,109422022122620221227044261
+1252,2022-12-27,Apotek Sami Sehat Delanggu,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,109432022122420221227013306
+1253,2022-12-16,CARTEXBLANCHE,Bernie Prajoga,Jl Casa 2,Kota Bandung,16858,109442022121520221216044209
+1254,2022-12-29,Belanja Elektronik,Edy Suwarno,Jl Ciputat Raya 16,Jakarta Selatan,16820,109462022122620221229085008
+1255,2022-12-09,aldiano22 shop,Bayu Prawitasari,Jl Rajawali 24,Sumatera Utara,16282,109472022120620221209026088
+1256,2022-12-19,Tissor Official,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,109482022121620221219074062
+1257,2022-12-14,cakraton,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,109492022121120221214053314
+1258,2022-12-17,simplicityapparel,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,109502022121420221217077154
+1259,2022-12-13,GrosirPakaianRajut,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,109512022121220221213012186
+1260,2022-12-19,GrosirPakaianRajut,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,109522022121820221219117186
+1261,2022-12-07,Livehaf Official,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,109542022120520221207075123
+1262,2022-12-05,Zazah Queen,Bob Yanuar,Jl RS Fatmawati 15 Golden Plaza Bl I/1-2,Jakarta Pusat,16250,109552022120420221205052027
+1263,2022-12-10,beau pamore,Darmo Suwito Barwin,Jl Jelambar Ilir 2,Jakarta Pusat,15353,109562022120920221210073235
+1264,2022-12-25,Make Over Official Shop,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,109572022122420221225028224
+1265,2022-12-23,Beli -Beli shop,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,109582022122220221223107286
+1266,2022-12-23,AINUN17 SHOP,Edy Susanto,Jl Gaperta Ujung 58,Sumatera Utara,16887,109592022122020221223084072
+1267,2022-12-15,Apotek Aulia Bekasi Utara,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,109602022121320221215041289
+1268,2022-12-24,sansscollection,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,109612022122220221224001199
+1269,2022-12-25,gotasa,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,109622022122420221225017208
+1270,2022-12-11,PINKFLASH OFFICIAL STORE,Beng Phiau,Jl Baskara Sari 92,Kota Pasuruan,17038,109632022120820221211034233
+1271,2022-12-18,A2F_STORE,Edy Susanto,Jl Gaperta Ujung 58,Sumatera Utara,16887,109642022121520221218084213
+1272,2022-12-09,kansi store,Muhammad Agus,Jl Balai Rakyat 3 RT 001/01,Jakarta Selatan,16710,109652022120720221209125153
+1273,2022-12-31,anjarisshop,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,109662022123020221231081177
+1274,2022-12-31,COTTON GOODS STORE,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,109672022122820221231124157
+1275,2022-12-08,KremlinOfficial,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,109682022120620221208107122
+1276,2022-12-15,majafashionhouse,Bengt Carl Gustav Thornberg,Jl Arteri Mangga Dua Raya Pus Perdag Psr Pagi Mangga Dua Bl B/132,Jakarta Selatan,16702,109692022121420221215035187
+1277,2022-12-30,Ultima II Official Store,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,109702022122820221230033261
+1278,2022-12-18,Madame Gie Official,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,109712022121520221218039252
+1279,2022-12-20,Satu Elektronik,Jenny Elisabeth RG,Jl P Tubagus Angke 11 K-L,Jakarta Barat,15906,109722022121920221220115025
+1280,2022-12-15,Maxim Official Store,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,109732022121320221215028033
+1281,2022-12-13,To Sehat Jakarta,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,109742022121120221213008247
+1282,2022-12-13,Apotek Dear Farma Medan Baru,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,109752022121220221213045269
+1283,2022-12-04,Derossa store,Alvin Gozali,Jl Kopo Ruko Kopo Permai Bl 6 AR/17,Kota Bandung,16263,109762022120320221204003140
+1284,2022-12-13,lbagstore,Andre Abdi,Jl Mangga Besar XIII RT 12/02,Jakarta Selatan,15173,109772022121220221213019010
+1285,2022-12-27,Apotek Rio Bekasi,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,109782022122420221227080274
+1286,2022-12-25,TJJ shop,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,109792022122220221225120002
+1287,2022-12-31,Apotek Labora Jaya,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,109802022123020221231098296
+1288,2022-12-15,Apotek Trijaya Kemayoran,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,109812022121320221215022278
+1289,2022-12-26,Blueprint Indonesia,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,109822022122320221226045108
+1290,2022-12-15,GrosirPakaianRajut,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,109832022121320221215106186
+1291,2022-12-29,Lynfashionista,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,109842022122620221229103183
+1292,2022-12-20,DUMA Official,Amalia,Jl Paseban 3 C,Jakarta Barat,16456,109852022121820221220006174
+1293,2022-12-29,ETC.OriginalSupply,Dany Subrata,Jl Metro Permata Bl A-2/33,Jakarta Pusat,15640,109862022122720221229066168
+1294,2022-12-06,AlteaCare Official Store,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,109872022120520221206080310
+1295,2022-12-26,X-Urband Official,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,109882022122420221226045124
+1296,2022-12-22,Aerostreet,Emi Sukiati Lasimon,Jl Letjen Haryono MT Kav 62 Wisma Korindo,Jakarta Pusat,16450,109892022121920221222096120
+1297,2022-12-04,GIZIDAT Official,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,109902022120120221204007317
+1298,2022-12-31,Kasirco,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,109912022123020221231098075
+1299,2022-12-12,SARANG ACC shop,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,109922022120920221212110070
+1300,2022-12-14,AINUN17 SHOP,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,109932022121320221214011072
+1301,2022-12-07,Quantum Home Appliances,Bobby Iman Satrio,Jl Kom L Yos Sudarso 27,Jakarta Pusat,15391,109942022120620221207055018
+1302,2022-12-15,Maybelline Official Shop,Amalia Aristiningsih,Jl Gn Sahari 51/12 A,Jakarta Barat,16325,109952022121420221215007253
+1303,2022-12-23,lattina_shop,Christian Sandy Rachmat,Jl Tmn Surya,Jakarta Pusat,15476,109962022122220221223061184
+1304,2022-12-19,Mother of Pearl by Tasya Farasya,Johan Tandean,Jl Raya Kebayoran Lama Permata Kebayoran Plaza Bl A/12,Jakarta Barat,15719,109972022121820221219120239
+1305,2022-12-15,Aerostreet,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,109992022121320221215020120
+1306,2022-12-23,Central_Distro,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,110002022122020221223056128
+1307,2022-12-07,House of Smith Official,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,110012022120420221207036118
+1308,2022-12-23,OTWOO Indonesia,Danny Tjiu,Jl Tebet Brt I/2,Jakarta Pusat,16429,110022022122020221223065246
+1309,2022-12-13,Havillastore,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,110042022121220221213099258
+1310,2022-12-13,KremlinOfficial,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,110052022121220221213043122
+1311,2022-12-18,Make Over Official Shop,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,110062022121620221218093224
+1312,2022-12-07,BEAUTYHAULINDO,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,110072022120420221207106243
+1313,2022-12-27,DUMA Official,Bobby Iman Satrio,Jl Kom L Yos Sudarso 27,Jakarta Pusat,15391,110082022122420221227055174
+1314,2022-12-07,loekita grosir,Christiana Halim,Jl Mampang Prapatan Raya 18,Jakarta Pusat,17224,110102022120420221207063195
+1315,2022-12-24,Aerostreet,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,110112022122120221224046120
+1316,2022-12-08,Lancar Jaya Store,Benjamin Wong Siong Yuit,Jl Kenyeri,Kota Denpasar,15743,110122022120520221208037078
+1317,2022-12-23,msmo,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,110132022122020221223106129
+1318,2022-12-23,MSOU SPORT,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,110142022122220221223028205
+1319,2022-12-10,X-Urband Official,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,110152022120820221210103124
+1320,2022-12-21,PINKFLASH OFFICIAL STORE,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,110162022121920221221099233
+1321,2022-12-08,X-Urband Official,Christian Leuchtenberg,Jl Puri Agung Mal Puri Indah Unit IU/1 C,Jakarta Pusat,17209,110172022120520221208058124
+1322,2022-12-08,look180,Johana Poedjokerto,Jl KH Zainul Arifin 35,Jakarta Selatan,15151,110182022120720221208121172
+1323,2022-12-15,Freestyle-Official,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,110192022121420221215105119
+1324,2022-12-21,Tunas Jaya Indotama,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,110212022121920221221076111
+1325,2022-12-19,Apotek Rio Bekasi Selatan,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,110222022121820221219076284
+1326,2022-12-06,Armor_Shop,Basuiki Puspoputro,Jl Kb Jati C-14/54,Kota Bandung,17064,110242022120520221206024265
+1327,2022-12-05,Apotek Aulia Bekasi Utara,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,110262022120320221205020289
+1328,2022-12-26,HNA-houseware,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,110272022122320221226059050
+1329,2022-12-05,G21,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,110282022120420221205010155
+1330,2022-12-04,Satu Elektronik,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,110292022120320221204108025
+1331,2022-12-13,Kastil Drakula,Amaluddin Djambak,Jl Raya Kosambi 8,Jakarta Barat,15683,110302022121020221213008084
+1332,2022-12-21,SANSAN_TOOLS,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,110312022121920221221025051
+1333,2022-12-11,Pixy Official Store,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,110322022120920221211100229
+1334,2022-12-15,OTWOO Indonesia,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,110332022121420221215068246
+1335,2022-12-15,Lalulaku,Anak Agung Gde Agung,Jl Sisingamangaraja Km 5.5/10,Sumatera Utara,16555,110342022121220221215009006
+1336,2022-12-28,DENPOO OFFICIAL STORE,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,110352022122620221228107039
+1337,2022-12-13,Apotek Aulia Bekasi Utara,Andiko Ardi Purnomo,Jl Cipinang Cempedak II 14,Jakarta Selatan,16266,110362022121120221213018289
+1338,2022-12-25,Apotek Apollo Surabaya,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,110382022122320221225053301
+1339,2022-12-04,GrosirPakaianRajut,BHAYANG SURYADIMADJA,Jl Gondangdia Lama 24,Jakarta Pusat,16116,110392022120120221204046186
+1340,2022-12-03,Belanja Elektronik,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,110402022120120221203108008
+1341,2022-12-10,X-Urband Official,Benjamin Subrata,Jl Empu Sendok 30,Jakarta Selatan,16045,110412022120720221210036124
+1342,2022-12-30,Sanhatcollection,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,110422022122820221230049151
+1343,2022-12-15,Wardah Official,Darwin Sutanto,Jl Cilincing Raya 43 A,Jakarta Pusat,17010,110442022121320221215078251
+1344,2022-12-31,SORU Indonesia,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,110452022123020221231015003
+1345,2022-12-16,Aerostreet,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,110462022121320221216108120
+1346,2022-12-02,bintang888,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,110472022120120221202012300
+1347,2022-12-29,lbagstore,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,110482022122720221229021010
+1348,2022-12-29,GIZIDAT Official,Fabian Gelael,Jl Prof Surya Sumantri 16,Kota Bandung,16319,110492022122720221229108317
+1349,2022-12-17,Fesyana Store,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,110502022121520221217113190
+1350,2022-12-25,Autad20,Evi Yulisma Harahap,Jl Kerinci 19,Jakarta Pusat,16526,110512022122420221225104173
+1351,2022-12-20,Electron,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,110522022121920221220113073
+1352,2022-12-15,Deli Stationery,Effendy Husin,Jl Ampera Raya Kav I/5 Ged Satmarindo Lt 2,Jakarta Pusat,16277,110532022121320221215087056
+1353,2022-12-07,OPI Official,Eka Sinto Kasih Tjia,Jl Sri Tanjung Pd Wage Indah F/17-19,Kota Pasuruan,15430,110542022120620221207090200
+1354,2022-12-23,ArEr fashion,Johan T. Gilbert,Jl Pluit Mas Raya VI A Bl G/9,Jakarta Barat,16577,110552022122220221223119133
+1355,2022-12-14,Apotek Sahabat Ambulu,Andi Zainal A. Dulung,Jl Pagesangan IV 41,Kota Pasuruan,16529,110562022121120221214017283
+1356,2022-12-18,To Sehat Jakarta,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,110572022121620221218109247
+1357,2022-12-09,Bizmarts,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,110582022120720221209039280
+1358,2022-12-10,lbagstore,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,110592022120820221210112010
+1359,2022-12-30,SUKAMAJU_STORE,Johanes Herkiamto,Jl Raya Kalimalang 1,Jakarta Selatan,16882,110602022122720221230122201
+1360,2022-12-17,officeXpres,Evi Wikarsa,Jl Dewi Sartika 357 C,Jakarta Pusat,15415,110612022121520221217103096
+1361,2022-12-26,Berkah Natural Bersama,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,110622022122320221226107266
+1362,2022-12-08,inayafashion,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,110632022120620221208083178
+1363,2022-12-30,Make Over Official Shop,Alwijaya Aw,Jl Laks L RE Martadinata 279,Jakarta Barat,16844,110642022122720221230005224
+1364,2022-12-13,Sido Muncul Store,Hioe Isenta and Ivy Lianawati,Jl Raya Alternatif Cibubur 23,Jakarta Pusat,17067,110652022121120221213110276
+1365,2022-12-30,Apotek Trijaya Kemayoran,Christanto Santoso,JL. Kesehatan No. 3,Kota Sorong,17104,110662022122720221230056278
+1366,2022-12-06,Apotek Aulia Bekasi Utara,BEATRICE EL,Jl Kb Jeruk 10,Jakarta Selatan,17233,110672022120520221206030289
+1367,2022-12-09,Make Over Official Shop,BELLYANAWATY BUDIMAN,Jl Pangkalan,Jakarta Selatan,15508,110682022120620221209032224
+1368,2022-12-27,Belanja Elektronik,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,110692022122420221227025008
+1369,2022-12-06,Herbal Store Bharata,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,110702022120420221206095294
+1370,2022-12-29,Apotek Sehat Kota Batu,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,110712022122720221229088290
+1371,2022-12-31,STUDIO TROPIK,Mugijanto Sugijono,Jl Dahlia Bl E/6 Kompl Tmn Modern,Jakarta Selatan,15432,110732022122920221231124226
+1372,2022-12-23,Starco Official Store,Belinda Natalia Tanoko,Jl Kutisari Raya 12,Kota Pasuruan,16899,110742022122120221223031007
+1373,2022-12-21,Apotek Sami Sehat Delanggu,Darmadi Karjanto Putro,Jl Pinangsia III/15,Jakarta Pusat,17167,110752022122020221221068306
+1374,2022-12-29,Make Over Official Shop,Darwin Leo,Jl Cikini Raya 8,Jakarta Pusat,16509,110772022122620221229075224
+1375,2022-12-06,Wardah Official,Edy Suwarno,Jl Ciputat Raya 16,Jakarta Selatan,16820,110782022120420221206085251
+1376,2022-12-26,ecinos,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,110792022122320221226109193
+1377,2022-12-29,EzzyMart JAKARTA,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,110802022122620221229045045
+1378,2022-12-31,lapak atk,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,110812022122820221231117092
+1379,2022-12-17,bintang888,Beny Haryanto,Jl Karbela Brt 9 RT 004/04,Jakarta Selatan,17216,110822022121620221217042300
+1380,2022-12-16,PINKFLASH OFFICIAL STORE,Emily Stephana Djauhari,Jl Tabanas 22 Kompl Bank,Jakarta Pusat,17000,110832022121320221216098233
+1381,2022-12-12,Y&S Collections,Andre S Prijono,12550 Workshop ,Jakarta Selatan,15339,110842022121020221212021210
+1382,2022-12-31,vesper,Bimo Surono,Jl Lodan 23,Jakarta Pusat,16487,110852022123020221231048021
+1383,2022-12-22,YOU Beauty Official,Darminto Hartono,Jl Setiabudi 186,Kota Bandung,17151,110862022122020221222072225
+1384,2022-12-04,Apotek Aulia Bekasi Utara,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,110872022120120221204060289
+1385,2022-12-27,INTI MEDIKA STORE,Darmawansjah Setiawan,Jl Raya Bekasi Km 25/95,Jakarta Pusat,16825,110882022122520221227070282
+1386,2022-12-13,Peek-A-Boo Baby Stuff,Beatrice El,Jl Tambak Anakan 9,Kota Pasuruan,17022,110892022121120221213029277
+1387,2022-12-12,Apotek Aulia Bekasi Utara,Irwan Hermanto,Jl Albaido I 29-30,Jakarta Barat,15246,110902022120920221212113289
+1388,2022-12-18,Satu Elektronik,Andi Gunawan Wibowo,Jl H Dilun Raya 113 Kel Ulujami Kec Pesanggrahan,Jakarta Utara,16276,110912022121720221218015025
+1389,2022-12-26,INTI MEDIKA STORE,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,110922022122420221226080282
+1390,2022-12-08,X-Urband Official,Bernadette Ruth Irawati,Jl Rempoa Raya 45,Jakarta Selatan,16145,110932022120620221208043124
+1391,2022-12-10,Make Over Official Shop,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,110942022120920221210117224
+1392,2022-12-10,PINZY Official Store,Efrem Wardhana,Jl Salemba Raya Psr Kenari AKS 12,Jakarta Pusat,16239,110952022120820221210088011
+1393,2022-12-28,Lalulaku,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,110962022122520221228049006
+1394,2022-12-06,Fesyana Store,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,110972022120320221206010190
+1395,2022-12-27,DENPOO OFFICIAL STORE,Beata Ida Hartono,Jl Tj Batu 21 J/11,Kota Pasuruan,16975,110982022122520221227028039
+1396,2022-12-05,JOYKO Official,Bing Gondosubroto,Jl Prof Dr Latumeten 23,Jakarta Pusat,16339,110992022120320221205049099
+1397,2022-12-15,Setia Mandiri Elektronik,Edy Susanto,Jl Gaperta Ujung 58,Sumatera Utara,16887,111002022121220221215084041
+1398,2022-12-13,AnR-Shop,Muhammad Alatas,Jl Psr Blauran Baru C/3,Kota Pasuruan,16687,111012022121220221213127170
+1399,2022-12-14,SANSAN_TOOLS,Benny Tjokrosapoetro,Jl Cideng Tmr 38,Jakarta Selatan,15744,111022022121220221214041051
+1400,2022-12-13,Maximum Chemical,Ewik Hendri,Jl Jawa V Bl C/24,Jakarta Pusat,16677,111032022121220221213106270
+1401,2022-12-14,Blueprint Indonesia,Bayu Irianto,Jl Soka 24,Kota Bandung,16999,111042022121220221214025108
+1402,2022-12-14,PAKAN LOVEBIRD MBOK DEWI,Darjoto Setyawan,Jl Stasiun 30 Kel Tanjung Gusta,Sumatera Utara,17130,111052022121220221214067132
+1403,2022-12-14,Bizmarts,Ananda Soewono,Jl Gorontalo 9,Jakarta Utara,16147,111062022121220221214010280
+1404,2022-12-14,COTTON GOODS STORE,Ben Morice,Jl Kembang Indah Utama Bl J-2 A/16-17,Jakarta Selatan,15951,111072022121220221214033157
+1405,2022-12-13,Twelve Hours Co.,Edy Susanto,Jl Gaperta Ujung 58,Sumatera Utara,16887,111082022121220221213084295
+1406,2022-12-13,Apotek Lucky Star Jakut,David Alexander Yuwono,Jl Dr Cipto 48 A,Kota Solo,15318,111092022121220221213080309
+1407,2022-12-14,DENPOO OFFICIAL STORE,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,111102022121220221214074039
+1408,2022-12-13,Aksesmandiri.ID,Hioe Isenta,Jl Pekayon 4,Jakarta Barat,16966,111112022121220221213109077
+1409,2022-12-14,Hi-Cook Official,Eiffel Tedja,Jl Kwitang Raya 8 Ged Senatama,Jakarta Pusat,16366,111122022121220221214089035
+1410,2022-12-14,lattina_shop,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,111132022121220221214047184
+1411,2022-12-13,Human Greatness Labs,Edy Kusnadi,Jl Depsos Raya 42 B RT 008/01,Jakarta Selatan,17100,111142022121220221213083131
+1412,2022-12-15,inimurah shop,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,111152022121220221215093076
+1413,2022-12-15,Wardah Official,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,111162022121220221215123251
+1414,2022-12-15,Agenjaketbandung,Evi Hamdani,Jl Senen Raya Proy Senen Bl IV P-4/11,Jakarta Pusat,16417,111172022121220221215102125
+1415,2022-12-13,PURBASARI INDONESIA,Allan Tjahja Tjao,Jl Denai 40,Sumatera Utara,15934,111182022121220221213001249
+1416,2022-12-15,lapak atk,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,111192022121220221215038092
+1417,2022-12-15,Deli office automative,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,111202022121220221215074064
+1418,2022-12-13,Mother of Pearl by Tasya Farasya,Christian Parlaungan Mulyanto,Jl Cipaku I 43,Jakarta Pusat,16393,111212022121220221213060239
+1419,2022-12-13,inimurah shop,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,111222022121220221213012076
+1420,2022-12-13,CrafTex,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,111232022121220221213074114
+1421,2022-12-14,Belanja Elektronik,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,111242022121220221214123008
+1422,2022-12-14,Baseus Official Store,Christian Sugiarto,Jl Cikini Raya 90 Hias Rias Plaza,Jakarta Pusat,15190,111252022121220221214062065
+1423,2022-12-13,bintang888,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,111262022121220221213022300
+1424,2022-12-13,DPRINCE,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,111272022121220221213107022
+1425,2022-12-14,luxcrime,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,111282022121220221214051227
+1426,2022-12-14,Prepp Studio Official Store,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,111292022121220221214039134
+1427,2022-12-14,Maxim Official Store,Bob Yanuar,Jl Percetakan Negara II 24,Jakarta Pusat,16675,111302022121220221214053033
+1428,2022-12-15,SKM Jaket,Muhammad Aksa Mahmud,Jl Raya Semarang-Purwodadi Km 17 Semarang,Kota Solo,15494,111312022121220221215126159
+1429,2022-12-13,Beauty is Here,Bismarka Kurniawan,Jl Batu 1,Jakarta Pusat,16516,111322022121220221213051232
+1430,2022-12-14,T & W,Darwin Silalahi,Jl Banyumanik Raya 77,Kota Solo,17056,111332022121220221214076053
+1431,2022-12-13,CARTEXBLANCHE,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,111342022121220221213016209
+1432,2022-12-14,Apotek Aulia Bekasi Utara,BENNY IRSJAD,Jl Dr Setiabudhi 315,Jakarta Selatan,15258,111352022121220221214038289
+1433,2022-12-15,Maybelline Official Shop,Bobby Andhika,Jl Panti Asuhan 2,Jakarta Pusat,15502,111362022121220221215054253
+1434,2022-12-15,Berkah Natural Bersama,Betty Ang,Jl Kakap III 25,Jakarta Selatan,17260,111372022121220221215045266
+1435,2022-12-14,Batik MasTri Solo,Emily Waty Setiawan,Jl Lautze 87,Jakarta Pusat,17176,111382022121220221214099130
+1437,2022-12-13,Ghani Bandung,Andang Bachtiar,Jl Kedoya Akasia V Bl B/6 RT 006/04,Jakarta Utara,15394,111402022121220221213012158
+1438,2022-12-15,Monellina Fashion,Johan Arifkaja Adi Lesmana,Jl Kertanegara 4,Jakarta Barat,16588,111412022121220221215117179
+1439,2022-12-14,MAP.Store,Ance Anggraeny,Jl Garuda Dlm I Bl B/47,Kota Bandung,16576,111422022121220221214011049
+1440,2022-12-15,Beauty is Here,Darmoseputro,Jl Asia Afrika Plaza Senayan,Jakarta Pusat,15472,111432022121220221215074232
+1441,2022-12-15,Menjual Serba Ada,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,111442022121220221215107162
+1442,2022-12-15,SORU Indonesia,David Kristian,Jl Gedeh 30-A,Sumatera Utara,15313,111452022121220221215081003
+1443,2022-12-14,Apotek Madani Farma Bekasi,Hiswara Natawindjaja,Jl Raya Cakung Cilincing Gud Inkopal,Jakarta Barat,17159,111462022121220221214112287
+1444,2022-12-15,Apotek Rio Bekasi Selatan,Andhika Anindyaguna Hermanto,Jl Iskandarsyah II 2 Pasaraya Blok M,Jakarta Utara,15174,111472022121220221215013284
+1445,2022-12-13,Garaf Official,Bimo Pramudyo Soekarno,Jl Mutiara I 10,Jakarta Pusat,16667,111482022121220221213047144
+1446,2022-12-15,Clouwny,Edy Kosasih,Jl Pd Kelapa Raya Bl BI-4 B-C RT 005/04 Pondok Kelapa,Jakarta Selatan,16647,111492022121220221215082206
+1447,2022-12-14,Menjual Serba Ada,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,111502022121220221214064162
+1448,2022-12-15,Pixy Official Store,Andre Sukendra Atmadja,Jl Laksda M Nazir 11 U,Jakarta Selatan,16483,111512022121220221215022229
+1449,2022-12-14,Sanhatcollection,Muddai Madang,Jl Nibung Raya 129,Sumatera Utara,16421,111522022121220221214123151
+1450,2022-12-14,agni-idstore,Darminto,Jl Sukanagara 21,Kota Bandung,16297,111532022121220221214071171
+1451,2022-12-13,Electron,Edy Suwarno,Jl Ciputat Raya 16,Jakarta Selatan,16820,111542022121220221213085073
+1452,2022-12-15,Belanja Elektronik,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,111552022121220221215050008
+1453,2022-12-15,Focallure Official Store,Elvira Pudjiwati,Jl Raya Pasar Minggu Bl B/12,Jakarta Pusat,16563,111562022121220221215095228
+1454,2022-12-14,Sido Muncul Store,Darwin Soegiatto,Jl Industri XXIV 988-989,Kota Solo,15213,111572022121220221214077276
+1455,2022-12-14,Apotek Karunia Sehat Condet Kramat Jati,Christian Nainggolan,Jl Raya Ciracas 4,Jakarta Pusat,15285,111582022121220221214059272
+1456,2022-12-14,To Sehat Jakarta,Aluinanto Sandjojo,Jl Inspeksi Saluran Kalimalang 9 A-B,Jakarta Pusat,16035,111592022121220221214002247
+1457,2022-12-14,Frozenshop - Toko Baju Pria Formal dan Kasual,Benny Setiawan,Jl CiKota Denpasargo 225,Jakarta Selatan,16697,111602022121220221214039145
+1458,2022-12-14,Belanja Elektronik,Bintoro Wong,Jl Talang Ujung 40 D,Jakarta Pusat,15341,111612022121220221214050008
+1459,2022-12-14,STUDIO TROPIK,ELVIN TJANDRA,Jl Tebet Tmr Dalam 7-I/5,Jakarta Pusat,16610,111622022121220221214093226
+1460,2022-12-14,L'Oreal Paris Official Store,Andi Pravidia Saliman,Jl Angkasa Bl B-7/8,Jakarta Utara,15829,111632022121220221214016242
+1461,2022-12-15,PURBASARI INDONESIA,Execorp Limited,Jl Raden Saleh Ruko Metro Permata Bl A-2/33,Jakarta Pusat,15758,111642022121220221215107249
+1462,2022-12-13,luxcrime,Andre Johannes Mamuaya,Jl Arjuna III/15,Jakarta Selatan,15636,111652022121220221213020227
+1463,2022-12-14,Livehaf Official,Evelyn Luciana Soeyapto,Jl Lodan Raya 1 Bl BE,Jakarta Pusat,15959,111662022121220221214100123
+1464,2022-12-13,Apotek Century Kuningan City,Christiana Niowni,Jl Peta 62,Kota Bandung,17147,111672022121220221213064268
+1465,2022-12-15,Jaketindo Clothing,Evie Raviana,Jl Tmn Duta Mas Bl B-4/2,Jakarta Pusat,15274,111682022121220221215105164
